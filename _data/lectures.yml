@@ -1,0 +1,866 @@
+- date: M 08/30
+  lecturer: Katerina & Ruslan
+  title: >
+    <strong>Introduction to Reinforcement and Representation Learning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture1_introF21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be70cfb-16ba-4ae6-8823-ad9000d61467
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
+    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
+    - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
+  logistics:
+
+- date: W 09/01
+  lecturer: Ruslan
+  title: >
+    <strong>Multi-armed Bandits</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/banditsexploreF21.pdf
+  # slides2:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30ea4b7e-a80b-4a95-a1fe-ad9000d64722
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
+    - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
+  logistics:
+
+- date: F 09/03
+  lecturer:
+  title:
+  recitation: >
+    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
+  slides: https://docs.google.com/presentation/d/1saU6nu4wNg6471QaDccePrC8d9TXtbS4wnSof7pbAws/edit?usp=sharing
+  notes: https://colab.research.google.com/drive/1TISfcs4ZRZJ0lg2g0KD7CdsW99HAcWb2?usp=sharing
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/s21_rec1_tf.pdf
+  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6b6035d-8ff3-48ba-b69e-ad9000dc94a2
+  notes2: https://colab.research.google.com/drive/1LXzznvOnvmvgCXerKc4rk1Aa89u8FONV?usp=sharing
+
+  # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
+  # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
+  readings:
+    - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
+    # - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC" target=  "_blank">notebook</a>
+    # - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR" target=  "_blank">notebook</a>
+    # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
+  logistics:
+
+- date: M 09/06
+  lecturer:
+  title: >
+    <strong>Labor Day - No Classes</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec3_evolutionary_methods_2.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af27186-f50a-4223-85b5-acca012c1d48
+  notes:
+  readings:
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites</a> (Optional)
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+  logistics:
+
+- date: W 09/08
+  lecturer: Ruslan
+  title: >
+    <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_mdps _policyvalueIterF21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee02378-734b-49ef-a727-ad9000d66864
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
+  logistics: <span class="event">HW1 out (tentative)</span> <br>
+
+- date: F 09/10
+  lecturer:
+  title:
+  recitation: >
+    <strong>Pytorch, Training Resources & HW1</strong>
+  slides: https://docs.google.com/presentation/d/19fjn3ycYLMQGg07zv1M_PMUsonvOCqXLYfaPQuT3JZI/edit?usp=sharing
+  # # slides2:
+  notes: https://colab.research.google.com/drive/1JOL1dEfpXacPSOEUFqA2NSNwjZ4WJ085?usp=sharing
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e56b362-50f5-43af-b8c4-ad9000dca8b8
+
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
+    # - <reading class="important">Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1,2 </reading>
+    # - <reading class="important">Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="_blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2 </reading>
+  #   logistics:
+  logistics:
+
+# - date: M 09/14
+#   lecturer:
+#   title: >
+#     <strong>Exploration-exploitation in experiment design, Bayesian optimization (contd.)</strong>
+#   slides:
+#   # video:
+#   notes:
+#   readings:
+#   - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
+#   - <reading class="important">Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1,2 </reading>
+#   - <reading class="important">Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="_blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2 </reading>
+# #   logistics:
+
+- date: M 09/13
+  lecturer: Ruslan
+  title: >
+    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
+  # # slides2:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bc1dab6-fee5-4e95-9b9a-ad9000d68f6e
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>, discussed in lecture
+    # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Ch1, Ch2 2.1-2.3
+    # - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
+  logistics:
+
+# - date: T 02/16
+#   lecturer:
+#   title: >
+#     <strong>Imitation learning with behavior cloning</strong>
+#   slides:
+#   video:
+#   notes:
+#   readings:
+#     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+#     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+#     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+#     - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
+#     # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+#     # - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+#     # - Florence et al. <a href="https://arxiv.org/abs/1806.08756" target="_blank">Dense Object Nets<span>:</span> Learning Dense Visual Object Descriptors By and For Robotic Manipulation</a>
+#     # - Mouret and Clune <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
+#     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+#     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
+#     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+#   logistics:
+
+- date: W 09/15
+  lecturer: Ruslan
+  title:
+    <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.)</strong>
+  # title: >
+  #   <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
+  # # slides2:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49c20d94-ccd8-4499-8141-ad9000d6a900
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
+    # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>, discussed in lecture
+    # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Ch1, Ch2 2.1-2.3
+    # - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
+  logistics:
+
+# - date: Th 02/18
+#   lecturer:
+#   title: >
+#     <strong>Generative adversarial / goal-conditioned imitation learning</strong>
+#   slides:
+#   video:
+#   notes:
+#   readings:
+#     - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
+#     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
+#     - Background Material - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20, Section 20.10.4
+#     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
+#   logistics:
+
+- date: F 09/17
+  lecturer:
+  title:
+  recitation: >
+    <strong>HW1</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec3_HW1.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=598a4322-8a96-4924-bf8a-ad9000dcb8a1
+  notes:
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: M 09/20
+  lecturer: Katerina
+  title: >
+    <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_FA_S21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81679c57-1efc-4364-ba03-ada9015d79fd
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
+    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+    # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
+    # - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+
+- date: W 09/22
+  lecturer: Katerina
+  title: >
+    <strong>Planning, Monte Carlo Tree search</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MCTS_F21.pdf
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
+    # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
+    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=100a4e88-4b66-4c2b-b676-ad9000d6cca9
+
+- date: F 09/24
+  lecturer:
+  title:
+  recitation: >
+    <strong>MCTS, TD Learning, Deep Q Learning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_4.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e6fabb-43b7-4ce6-bc9f-ad9000dcc474
+  notes:
+  readings:
+
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+
+    # - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>, discussed in lecture
+    # - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>, optional
+    # - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, up to Page 10
+    # - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, optional
+    # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    # - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    # - Florence et al. <a href="https://arxiv.org/abs/1806.08756" target="_blank">Dense Object Nets<span>:</span> Learning Dense Visual Object Descriptors By and For Robotic Manipulation</a>
+    # - Mouret and Clune <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating search spaces by mapping elites</a>
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+
+     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    # - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+
+# - date: Th 02/25
+#   lecturer:
+#   title: >
+#     <strong>What if states are few, we know which state we are in, and the world model is known? Dynamic programming for policy search</strong>
+#   slides: https://docs.google.com/presentation/d/1gTv2FFHtQvY0fGeKEIM6DPEpX20ZBLpxKGacOUNvmdQ/edit?usp=sharing
+#   video:
+#   notes:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+#     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
+#   logistics:
+
+- date: M 09/27
+  lecturer: Ruslan
+  title: >
+    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d5f015-aa6e-43f6-a186-ad9000d6ec55
+  notes:
+  readings:
+    - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
+
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+    - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
+    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+  logistics: <span class="deadline">HW1 due 09/27 11:59pm</span>
+
+- date: W 09/29
+  lecturer: Ruslan
+  title: >
+    <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60b0921d-4cf4-487f-afca-ad9000d714be
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    # - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - (optional) Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+
+  logistics: <span class="deadline">HW2 out (tentative)</span>
+
+- date: F 10/01
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 1 Review</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 5 Quiz 1 Review(1).pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd6ecd93-d163-4841-b7b5-ad9000dcd0e6
+  notes:
+  readings:
+  logistics:
+
+- date: M 10/04
+  lecturer: Katerina
+  title: >
+    <strong>Natural PG, PPO, TRPO</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b08fdc64-d17d-424b-a533-ad9000d7248c
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
+    - (optional) Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
+
+
+- date: W 10/06
+  lecturer: Katerina and Ben
+  title: >
+    <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PathwiseDDPG_F21.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MaximumEntropyRL.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c6c3a56-9b62-4d65-86a4-ad9000d79f94
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+    - (optional) Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+  logistics:
+
+- date: F 10/08
+  lecturer:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 1 [covering everything through Lecture 10, Wednesday, September 29]</strong>
+  slides:
+  # # slides2:
+  # video:
+  # notes:
+  # readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: M 10/11
+  lecturer: Katerina
+  title: >
+    <strong>Evolutionary methods for policy search </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/evolutionarymethods_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ccf5dbc-5e68-4146-b9db-ad9000d7b750
+  notes:
+  readings:
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    # - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    # - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+    # - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank"> Deep Q-learning from Demonstrations</a>
+    # - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # Three more paper added
+    - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    - (optional) Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)</a>
+    - Max Jaderberg et al. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Population Based Training of Neural Networks </a>
+  logistics:
+
+# - date: Th 03/11
+#   lecturer:
+#   title: >
+#     <strong>Monte Carlo Tree search</strong>
+#   slides:
+#   video:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+#   logistics:
+
+- date: W 10/13
+  lecturer: Ruslan
+  title: >
+    <strong>Imitation learning, behavior cloning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/immitationlearning_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19042526-9471-44b6-8616-ad9000d7ce97
+  notes:
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+    # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
+    # - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - (optional) Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+  logistics:
+
+
+- date: F 10/15
+  lecturer:
+  title: >
+    <strong> Mid-semester break - No classes </strong>
+  recitation: <strong>No Recitation (Mid-semester break) </strong>
+
+# - date: M 10/18
+#   lecturer: Katerina
+#   title: >
+#     <strong>Imitation learning, behavior cloning</strong>
+#   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bf9a793-f2ac-4b52-aa36-acef01097cb8
+#   notes:
+#   readings:
+#     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+#     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
+#     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+#     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+#     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+#     - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
+#     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+#     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+
+
+
+- date: M 10/18
+  lecturer: Katerina
+  title: >
+    <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/RL+demosF21.pdf
+  # slides2:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=447aa00c-52ae-4d0b-87fd-ad9000d7e599
+  notes:
+  readings:
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a>
+    - (optional) Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
+    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
+  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
+
+- date: W 10/20
+  lecturer: Katerina
+  title: >
+    <strong>Model based RL, Low dimensional model, Explicit models. </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRLRL_lowdimexplicit_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c02f4b-b81b-4bc5-96b8-ad9000d8037f
+  notes:
+  readings:
+  # -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  # -(optional) Janner et al.  <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model: Model-Based Policy Optimization</a>
+  # -(optional) Kurutach et al. 1 <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  # -Kaiser et al.  <a href="" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
+  - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  - (optional) Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model based Reinforcement Lerning for Atari</a>
+  - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
+  # - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
+
+- date: F 10/22
+  lecturer:
+  title:
+  recitation: >
+    <strong> Homework 3</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_7_Homework_3.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a46e9bc9-0df3-49ad-b353-ad9000dcde6d
+  notes:
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: M 10/25
+  lecturer: Katerina
+  title: >
+    <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
+  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
+  video: hhttps://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9c430b5-340e-47e2-ab99-ad9000d86066
+  notes:
+  readings:
+    # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
+    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+
+  logistics:
+
+# - date: F 03/26
+#   lecturer:
+#   title: >
+#     <strong>Mid Semester Break - No classes</strong>
+
+- date: W 10/27
+  lecturer: Katerina
+  title: >
+    <strong>MBRL (cont.) Holistic and graph-based world models</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daa6c839-cead-455f-be9c-ad9000d87aee
+  notes:
+  readings:
+    - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
+    - Yan et.al. - <a href="https://arxiv.org/pdf/2003.05436.pdf" target=  "_blank">Representation Learning on Networks</a>
+    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: F 10/29
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 2 Review</strong>
+
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_8_Quiz_2_Review.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de7f972-2a70-41a3-a667-add001049888
+  notes:
+  readings:
+  logistics:
+
+- date: M 11/01
+  lecturer: Katerina
+  title: >
+    <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3703de45-8c79-4024-8a30-ad9000d8a72b
+  notes:
+  readings:
+
+    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
+  logistics: <span class="deadline">HW3 due 11/01 11:59pm</span>
+  #   - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+  #   - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+  #   - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+    # - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    # - Silver et al. <a href="https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ" target="_blank">Mastering the game of Go without human knowledge</a>
+  # logistics:
+
+- date: W 11/03
+  lecturer: Katerina
+  title: >
+    <strong>MBRL(cont), stochastic world models</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_stochastic_F21.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5748c729-c779-4dfe-b6a7-ad9000d8b830
+  notes:
+  readings:
+    # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
+    - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
+    - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
+
+
+- date: F 11/05
+  lecturer:
+  quiz: >
+    <strong>No Classes - Day for Community Engagement</strong>
+
+- date: M 11/08
+  lecturer:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 2 [covering everything from lectures 10-19 (Wednesday, Nov 03)]</strong>
+  # slides:
+  # # slides2:
+  # video:
+  # notes:
+  # readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
+
+
+- date: W 11/10
+  lecturer: Ruslan
+  title: >
+    <strong>Offline RL</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offline_rl_ruosong.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0df56f8e-8433-4751-9ab4-ad9000d8d09b
+  notes:
+  readings:
+
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
+    # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
+  logistics:
+
+- date: F 11/12
+  lecturer: Katerina
+  recitation:
+  title: >
+    <strong>Intelligent Exploration</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/deepexplorationF21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7515234-d20e-412f-b272-addd013abf4f
+  # quiz: >
+  #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
+  notes:
+  readings:
+    - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+  logistics:
+
+- date: M 11/15
+  lecturer: Katerina
+  title: >
+    <strong> Deep exploration (cont.) and Sim2Real tranfer </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=781cae6a-c4f2-4a6c-b492-ad9000d91446
+  notes:
+  readings:
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+
+- date: W 11/17
+  lecturer: Katerina
+  title: >
+    <strong> Sim2Real tranfer (cont.) and Visual Imitation Learning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a7e58b-bec0-44ed-adff-ad9000d9236b
+  notes:
+  readings:
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+    - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
+
+- date: F 11/19
+  lecturer:
+  recitation: Homework 4
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf
+  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
+  notes:
+  readings:
+    # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
+    # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+  logistics:
+
+- date: M 11/22
+  lecturer: Daniel Seita (https://www.cs.cmu.edu/~dseita/)
+  title: >
+    <strong> GUEST lecture: Visual Imitation Learning (cont.) and vision-based manipulation with Transporters</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Visual-Imitation-Manipulation-10703-class-11-22-2021.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a82287-9120-49d7-89db-ad1201089b0f
+  notes:
+  readings:
+  # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
+  # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from s</a>
+    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span> Learning Behaviors by Latent Imagination</a>
+    # - Levine et al. <a href="https://arxiv.org/pdf/1504.00702.pdf" target="_blank">End-to-End Training of Deep Visuomotor Policies</a>
+    # - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning<span>:</span> Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
+    # - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
+    # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+  - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
+  - Zeng et al. <a href="https://arxiv.org/abs/2010.14406v2" target="_blank">Transporter Networks:Rearranging the Visual World for Robotic Manipulation</a>
+  - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
+  logistics:
+
+# - date: F 04/23
+#   lecturer:
+#   title:
+#   recitation: >
+#     <strong>HW4</strong>
+#   slides:  https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
+#   video:
+#   notes:
+#   readings:
+#   logistics:
+
+
+    # <span class="deadline">HW4 due 04/23 11:59pm</span>
+    # <span class="event">HW5 out</span> <br>
+
+
+# - date: F 04/23
+#   lecturer:
+#   title: <strong>Intelligent Exploration</strong>
+#   slides:
+#   video:
+#   notes:
+#   readings:
+#     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
+#     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+#   logistics:
+#     <span class="deadline">HW4 due 04/23 11:59pm</span> <span class="event">HW5 out</span> <br>
+
+- date: W 11/24
+  lecturer:
+  title: >
+    <strong>Thanksgiving Break - No classes</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec24_sim2real.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
+  notes:
+  readings:
+    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    # - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+    # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
+  logistics:
+
+# - date: F 05/04
+#   lecturer:
+#   title:
+#   recitation: >
+#     <strong>REC </strong>
+#   slides:
+#   # video:
+#   notes:
+#   readings:
+#   logistics:
+
+- date: F 11/26
+  lecturer:
+  title: >
+    <strong>Thanksgiving Break - No classes</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec25_inversegraphicsforRL.pdf
+  # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45614624-ace7-4d57-a18b-ad1e01085d0f
+  notes:
+  readings:
+    # - He et al. <a href="https://arxiv.org/pdf/1911.05722.pdf" target="_blank">Momentum Contrast for Unsupervised Visual Representation Learning</a>
+    # - Srinivas et al. <a href="https://arxiv.org/pdf/2004.04136.pdf" target="_blank">CURL<span>:</span> Contrastive Unsupervised Representations for Reinforcement Learning</a>
+    # - Duan et al. <a href="https://arxiv.org/pdf/1707.03141.pdf" target="_blank">A Simple Neural Attentive Meta-Learner</a>
+    # - Finn et al. <a href="https://arxiv.org/abs/1703.03400" target="_blank">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
+    # - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
+    # - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
+  logistics:
+
+- date: M 11/29
+  lecturer: Ruslan
+  title: >
+    <strong>Deep RL for Navigation  </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Navigation_DeepRL.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
+  notes:
+  readings:
+    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    # - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+
+#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+    # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
+    # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
+    # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
+    # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
+    - Chen et al. <a href="https://arxiv.org/abs/1903.01959" target="_blank">Learning Exploration Policies for Navigation</a>
+    - Singh Chaplot et al. <a href="https://arxiv.org/abs/2004.05155" target="_blank">Learning to Explore using Active Neural SLAM</a>
+  logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
+
+
+  # lecturer:
+  # title: >
+  #   <strong>Hierarchical RL</strong>
+  # slides:
+  # # video:
+  # notes:
+  # readings:
+  #   - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
+  #   - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
+  # logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
+
+# - date: Th 04/29
+#   lecturer:
+#   title: >
+#     <strong>Visual Imitation Learning (cont.)</strong>
+#   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
+#   notes:
+#   readings:
+#   #   - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+#   #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
+#   logistics:
+
+# - date: Su 05/02
+#   lecturer:
+#   title: >
+#     <strong>HW5 out</strong>
+
+
+- date: W 12/01
+  lecturer: Ruslan
+  title: >
+    <strong>Efficient Distributed RL</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/EfficientDistributedRL.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
+  notes:
+  readings:
+    - Parisotto et al. <a href="https://arxiv.org/abs/2104.01655" target="_blank">Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation</a>
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL^2:Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+
+
+# - date: Su 05/09
+#   lecturer:
+#   title: >
+#     <strong>HW5 due 05/09 11:59pm</strong>
+
+- date: F 12/03
+  lecturer:
+  # quiz: >
+  #   <strong>Quiz 3</strong>
+  recitation: Quiz 3 Review 
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
+  notes: 
+  readings:
+  logistics:
+
+# - date: W 12/01
+#   lecturer: Ruslan
+#   title: >
+#     <strong>RL and generalization: A closer look to state representations for generalization in model free and model based RL </strong>
+#   # recitation: >
+#     # <strong>Quiz 3 Review</strong>
+#   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec9_quiz3.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be218e2-7278-4d4f-8f44-ad210122e789
+#   notes:
+#   readings:
+#     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+#     - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+#     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+#     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+#     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+#   logistics:
+
+- date: F 12/07
+  lecturer:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 3 (1-4pm) </strong>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
