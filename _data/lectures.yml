@@ -2,7 +2,7 @@
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture1_introF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/lecture1_introF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be70cfb-16ba-4ae6-8823-ad9000d61467
   notes:
   readings:
@@ -15,7 +15,7 @@
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/banditsexploreF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/banditsexploreF21.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30ea4b7e-a80b-4a95-a1fe-ad9000d64722
   notes:
@@ -36,7 +36,7 @@
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
   slides: https://docs.google.com/presentation/d/1saU6nu4wNg6471QaDccePrC8d9TXtbS4wnSof7pbAws/edit?usp=sharing
   notes: https://colab.research.google.com/drive/1TISfcs4ZRZJ0lg2g0KD7CdsW99HAcWb2?usp=sharing
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/s21_rec1_tf.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/s21_rec1_tf.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6b6035d-8ff3-48ba-b69e-ad9000dc94a2
   notes2: https://colab.research.google.com/drive/1LXzznvOnvmvgCXerKc4rk1Aa89u8FONV?usp=sharing
@@ -50,25 +50,17 @@
     # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
+
 - date: M 09/05
   lecturer:
-  title: >
+  quiz: >
     <strong>Labor Day - No Classes</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec3_evolutionary_methods_2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af27186-f50a-4223-85b5-acca012c1d48
-  notes:
-  readings:
-    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
-    # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites</a> (Optional)
-    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-  logistics:
 
 - date: W 09/07
   lecturer: 
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_mdps _policyvalueIterF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/lecture_mdps _policyvalueIterF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee02378-734b-49ef-a727-ad9000d66864
   notes:
   readings:
@@ -111,7 +103,7 @@
   lecturer: 
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/lecture_MCTD_F21.pdf
   # # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bc1dab6-fee5-4e95-9b9a-ad9000d68f6e
   notes:
@@ -150,7 +142,7 @@
     <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.)</strong>
   # title: >
   #   <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/lecture_MCTD_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49c20d94-ccd8-4499-8141-ad9000d6a900
@@ -184,7 +176,7 @@
   title:
   recitation: >
     <strong>HW1</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec3_HW1.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Rec3_HW1.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=598a4322-8a96-4924-bf8a-ad9000dcb8a1
   notes:
   readings:
@@ -195,7 +187,7 @@
   lecturer: 
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_FA_S21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/lecture_FA_S21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81679c57-1efc-4364-ba03-ada9015d79fd
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
@@ -209,7 +201,7 @@
   lecturer: 
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MCTS_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MCTS_F21.pdf
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
@@ -222,7 +214,7 @@
   title:
   recitation: >
     <strong>MCTS, TD Learning, Deep Q Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_4.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Recitation_4.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e6fabb-43b7-4ce6-bc9f-ad9000dcc474
   notes:
   readings:
@@ -264,7 +256,7 @@
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/PG_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d5f015-aa6e-43f6-a186-ad9000d6ec55
   notes:
   readings:
@@ -279,7 +271,7 @@
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/PG_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60b0921d-4cf4-487f-afca-ad9000d714be
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
@@ -295,7 +287,7 @@
   title:
   recitation: >
     <strong>Quiz 1 Review</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 5 Quiz 1 Review(1).pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Recitation 5 Quiz 1 Review(1).pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd6ecd93-d163-4841-b7b5-ad9000dcd0e6
   notes:
   readings:
@@ -305,7 +297,7 @@
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_2.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/NaturalPolicyGradientsF21_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b08fdc64-d17d-424b-a533-ad9000d7248c
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -319,8 +311,8 @@
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PathwiseDDPG_F21.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MaximumEntropyRL.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/PathwiseDDPG_F21.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MaximumEntropyRL.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c6c3a56-9b62-4d65-86a4-ad9000d79f94
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -348,7 +340,7 @@
   lecturer: 
   title: >
     <strong>Evolutionary methods for policy search </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/evolutionarymethods_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/evolutionarymethods_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ccf5dbc-5e68-4146-b9db-ad9000d7b750
   notes:
   readings:
@@ -382,7 +374,7 @@
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/immitationlearning_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/immitationlearning_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19042526-9471-44b6-8616-ad9000d7ce97
   notes:
   readings:
@@ -399,11 +391,14 @@
   logistics:
 
 
+
 - date: F 10/14
   lecturer:
   title: >
-    <strong> Placeholder </strong>
-  recitation: <strong> Placeholder </strong>
+    <strong>Placeholder</strong>
+  notes:
+  readings:
+  logistics:
 
 # - date: M 10/18
 #   lecturer: Katerina
@@ -426,32 +421,26 @@
 
 - date: M 10/17
   lecturer:
-  title: >
+  quiz: >
     <strong>Fall Break - No Classes</strong>
-  notes:
-  readings:
-  logistics:
+
 
 - date: W 10/19
   lecturer:
-  title: >
+  quiz: >
     <strong>Fall Break - No Classes</strong>
-  notes:
-  readings:
-  logistics:
 
 - date: F 10/21
   lecturer:
-  title: >
-    <strong>Fall Break - No Recitation </strong>
-  recitation: <strong>Fall Break - No Recitation</strong>
+  quiz: >
+    <strong>Fall Break - No Classes</strong>
 
 
 - date: M 10/24
   lecturer: 
   title: >
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/RL+demosF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/RL+demosF21.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=447aa00c-52ae-4d0b-87fd-ad9000d7e599
   notes:
@@ -470,7 +459,7 @@
   lecturer: 
   title: >
     <strong>Model based RL, Low dimensional model, Explicit models. </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRLRL_lowdimexplicit_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRLRL_lowdimexplicit_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c02f4b-b81b-4bc5-96b8-ad9000d8037f
   notes:
   readings:
@@ -499,18 +488,18 @@
 #  logistics:
 
 
-- date: F 10/28
+- date: M 10/28
   lecturer:
-  title: >
-    <strong>Tartan Community Day - No Recitation</strong>
-  recitation: <strong>>Tartan Community Day - No Recitation</strong> 
+  quiz: >
+    <strong>Tartan Community Day - No Classes</strong>
+
 
 
 - date: M 10/31
   lecturer: 
   title: >
     <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRL_AlphaZeroMuzero_F21.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
   video: hhttps://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9c430b5-340e-47e2-ab99-ad9000d86066
   notes:
@@ -536,7 +525,7 @@
   lecturer: 
   title: >
     <strong>MBRL (cont.) Holistic and graph-based world models</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRL_holisticandgraphmodels_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daa6c839-cead-455f-be9c-ad9000d87aee
   notes:
   readings:
@@ -556,7 +545,7 @@
   recitation: >
     <strong>Quiz 2 Review</strong>
 
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_8_Quiz_2_Review.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Recitation_8_Quiz_2_Review.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de7f972-2a70-41a3-a667-add001049888
   notes:
@@ -567,7 +556,7 @@
   lecturer: 
   title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRL_holisticandgraphmodels_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3703de45-8c79-4024-8a30-ad9000d8a72b
   notes:
   readings:
@@ -585,8 +574,8 @@
   lecturer: 
   title: >
     <strong>MBRL(cont), stochastic world models</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_stochastic_F21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRL_iLQR_F21.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/MBRL_stochastic_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5748c729-c779-4dfe-b6a7-ad9000d8b830
@@ -603,7 +592,8 @@
   lecturer:
   title: >
     <strong> Placeholder </strong>
-  recitation: <strong> Placeholder </strong>
+  recitation: 
+
 
 
 - date: M 11/14
@@ -626,8 +616,8 @@
   lecturer: 
   title: >
     <strong>Offline RL</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offline_rl_ruosong.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/offpolicyRL_F21_v2.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/offline_rl_ruosong.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0df56f8e-8433-4751-9ab4-ad9000d8d09b
   notes:
   readings:
@@ -646,7 +636,7 @@
   recitation:
   title: >
     <strong>Intelligent Exploration</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/deepexplorationF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/deepexplorationF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7515234-d20e-412f-b272-addd013abf4f
   # quiz: >
   #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
@@ -665,7 +655,7 @@
   lecturer: 
   title: >
     <strong> Deep exploration (cont.) and Sim2Real tranfer </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/sim2realSF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=781cae6a-c4f2-4a6c-b492-ad9000d91446
   notes:
   readings:
@@ -677,19 +667,14 @@
 
 - date: W 11/23
   lecturer:
-  title: >
+  quiz: >
     <strong>Thanksgiving Break - No Classes</strong>
-  notes:
-  readings:
-  logistics:
 
-- date: F 11/25
+
+- date: W 11/25
   lecturer:
-  title: >
+  quiz: >
     <strong>Thanksgiving Break - No Classes</strong>
-  notes:
-  readings:
-  logistics:
 
 
 
@@ -697,7 +682,7 @@
   lecturer: 
   title: >
     <strong> Sim2Real tranfer (cont.) and Visual Imitation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/sim2realSF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a7e58b-bec0-44ed-adff-ad9000d9236b
   notes:
   readings:
@@ -763,7 +748,7 @@
   lecturer: 
   title: >
     <strong>Deep RL for Navigation  </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Navigation_DeepRL.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Navigation_DeepRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
   notes:
   readings:
@@ -825,7 +810,7 @@
   lecturer: 
   title: >
     <strong>Efficient Distributed RL</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/EfficientDistributedRL.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/EfficientDistributedRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
   notes:
   readings:
@@ -859,7 +844,7 @@
   # quiz: >
   #   <strong>Quiz 3</strong>
   recitation: Quiz 3 Review 
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f22/Rec10_Quiz3.pdf
   notes: 
   readings:
   logistics:
