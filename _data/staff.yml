@@ -2,7 +2,7 @@ Instructors:
     - name: Katerina Fragkiadaki
       email: katef@cs.cmu.edu
       url: https://www.cs.cmu.edu/~katef/
-      office-hours: TBD
+      office-hours: Mon & Wed, 1:10pm - 1:40pm
       image: staff/katef.jpeg
 
 EducationAssociates:
@@ -16,21 +16,22 @@ TAs:
     - name: Alan Zhu
       email: yixuanz2@andrew.cmu.edu
       url:
-      office-hours: TBD
+        office-hours: Wed 5:00pm - 6:00pm
       image: staff/Alan.jpg
       zoom:
 
-    - name: Rian Yang
+    - name: Brian Yang
       email: brianyan@andrew.cmu.edu
       url: 
-      office-hours: TBD
+      office-hours: Thurs 4:00pm - 5:00pm
+      loaction: NSH 3128
       image: staff/Brian.jpg
       zoom:
 
     - name: Lawrence Jang
       email: ljang@andrew.cmu.edu
       url: 
-      office-hours: TBD
+      office-hours: Tues 3:00pm - 4:00pm
       image: staff/Lawrence.jpg
       zoom:
 
@@ -58,7 +59,7 @@ TAs:
     - name: Xiqiao Guo
       email: xiqiaog@andrew.cmu.edu
       url: 
-      office-hours: TBD
+      office-hours: Tues 12:00pm - 1:00pm
       image: staff/Xiqiao.jpg
       zoom:
 
@@ -66,7 +67,7 @@ TAs:
     - name: Tiancheng Zhao
       email: tianchen@andrew.cmu.edu
       url:
-      office-hours: TBD
+        office-hours: Fri 3:00pm - 4:00pm
       image: staff/generic.jpeg
       zoom:
 

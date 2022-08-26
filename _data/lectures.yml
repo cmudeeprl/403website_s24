@@ -237,7 +237,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
     - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  logistics: 
+  logistics: <span class="deadline">HW2 due 11:59pm</span> <br>
 
 - date: W 09/28
   lecturer: 
@@ -249,7 +249,7 @@
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
 
-  logistics: <span class="deadline">HW2 out (tentative)</span>
+  logistics: <span class="event">HW2 out (tentative)</span> <br>
 
 - date: F 09/30
   lecturer:
@@ -413,7 +413,7 @@
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
     - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
-  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
+  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 11:59PM</span>
 
 - date: W 10/26
   lecturer: 
@@ -514,7 +514,7 @@
   notes:
   readings:
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-  logistics: 
+  logistics:  <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
   #   - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
@@ -613,6 +613,7 @@
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+  logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 
 - date: W 11/23
@@ -705,7 +706,7 @@
 
 - date: F 12/02
   lecturer:
-  recitation: Homework 4
+  recitation: <strong>Homework 4</strong>
   slides: 
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
@@ -772,13 +773,14 @@
     - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
     - (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+  logistics: <span class="deadline">HW5 due 11:59PM</span>
       
 
 - date: F 12/09
   lecturer:
   # quiz: >
   #   <strong>Quiz 3</strong>
-  recitation: Quiz 3 Review 
+  recitation:  <strong>Quiz 3 Review</strong>
   slides: 
   notes: 
   readings:
