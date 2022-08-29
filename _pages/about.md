@@ -39,7 +39,7 @@ Students should have a solid understanding of the following areas
 
 - **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
 - **Recitations:** Friday 11:50 AM - 1:10 PM
-- **Lecture/Recitation Location:** [HOA 160](https://www.google.com/maps/place/Hall+of+Arts/@40.4428819,-79.9477952,16z/data=!3m1!5s0x8834f2203033113d:0xee0377a92536e698!4m9!1m2!2m1!1shoa+160+cmu!3m5!1s0x8834f35a1ad202e9:0x797e3cde94db75d4!8m2!3d40.4406681!4d-79.9422936!15sCgtob2EgMTYwIGNtdZIBBnNjaG9vbOABAA)
+- **Lecture/Recitation Location:** [HOA 160](https://www.google.com/maps/place/Hall+of+Arts/@40.4428819,-79.9477952,16z/data=!3m1!5s0x8834f2203033113d:0xee0377a92536e698!4m9!1m2!2m1!1shoa+160+cmu!3m5!1s0x8834f35a1ad202e9:0x797e3cde94db75d4!8m2!3d40.4406681!4d-79.9422936!15sCgtob2EgMTYwIGNtdZIBBnNjaG9vbOABAA){:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
