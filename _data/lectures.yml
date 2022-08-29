@@ -7,7 +7,7 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
-    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
+    - Smith & Gasser. <a href="https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
     - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
@@ -237,7 +237,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
     - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  logistics: <span class="deadline">HW2 due 11:59pm</span> <br>
+  logistics: <span class="deadline">HW1 due 11:59pm</span> <br>
 
 - date: W 09/28
   lecturer: 
