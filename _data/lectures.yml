@@ -541,29 +541,20 @@
 
 - date: F 11/11
   lecturer:
-  title: >
-    <strong> Placeholder </strong>
-  recitation: 
-
-
-
-- date: M 11/14
-  lecturer:
-  # title:
   recitation:
-  #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 2 [covering everything from lectures 10-19]</strong>
-  # slides:
+    <strong> Quiz 2 </strong>
+  slides:
   # # slides2:
   # video:
   # notes:
   # readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics: 
+  logistics:
 
 
-- date: W 11/16
+
+- date: M 11/14
   lecturer: 
   title: >
     <strong>Offline RL</strong>
@@ -581,7 +572,7 @@
     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:
 
-- date: F 11/18
+- date: W 11/16
   lecturer: 
   recitation:
   title: >
@@ -600,6 +591,17 @@
     - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
   logistics:
+
+
+- date: F 11/18
+  lecturer:
+  title: >
+    <strong>Placeholder</strong>
+  notes:
+  readings:
+  logistics:
+
+
 
 - date: M 11/21
   lecturer: 
