@@ -64,6 +64,16 @@ Students are required to **typeset written homework solutions using $$\LaTeX$$ a
 
 ***  
 
+### Quizzes
+
+**All** quizzes will be in-person and taken in the classroom on Gradescope using your personal laptop. We will use up to the full recitation time for quizzes 1 and 2. Please, make sure your device is sufficiently charged and bring your charger as backup. We cannot guarantee one power outlet per person. Students in the remote section will will take the exam concurrently during the class period.  As an FYI, the last quiz is 3 hours and the date and time is set by the registrar.
+
+The quizzes are open book, though no google search (or any online search) is allowed. You may can **only** access downloaded notes and papers. The quizzes are not cumulative and will only test a subset of the material, **but they can have questions that require you to know older material**.
+
+Each quiz will count equally toward the overall quiz grade.
+
+***
+
 ### Remote Student Engagement
 
 The remote-only (REO) Section B for this course is for students who cannot be on campus due to a government restriction on visas or travel or a documented health issue. To ensure that we are supporting these remote students:
