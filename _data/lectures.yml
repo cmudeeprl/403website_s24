@@ -34,7 +34,7 @@
   title:
   recitation: >
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
-  slides:
+  slides: https://docs.google.com/presentation/d/18SMCO1P6w9RgRgA-RDJUU_hdHBpgwfOsDQDYmSGOLvY/edit#slide=id.p
   notes: 
   slides2: 
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
