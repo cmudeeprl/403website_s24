@@ -18,7 +18,7 @@ TAs:
       url:
       office-hours: Wed 5:00pm - 6:00pm
       image: staff/Alan.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/j/2310497456
 
     - name: Brian Yang
       email: brianyan@andrew.cmu.edu
@@ -26,42 +26,42 @@ TAs:
       office-hours: Thurs 4:00pm - 5:00pm
       loaction: NSH 3128
       image: staff/Brian.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/j/2064967363
 
     - name: Lawrence Jang
       email: ljang@andrew.cmu.edu
       url: 
       office-hours: Tues 3:00pm - 4:00pm
       image: staff/Lawrence.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/j/4891032108
 
     - name: Raj Mehta 
       email: rajm@andrew.cmu.edu
       url: 
       office-hours: Tues 4:00pm - 5:00pm
       image: staff/Raj.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/j/3444156279
 
     - name: Ricky Gao
       email: rickyg@andrew.cmu.edu
       url: 
       office-hours: Mon 5:00pm - 6:00pm
       image: staff/Ricky.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/my/rickyg111?pwd=NnB0ZFE3cDFtUU1XQm00Z0pkdGpJZz09
 
     - name: Roshan Thekiniath 
       email: rthekini@andrew.cmu.edu
       url: 
       office-hours: Thurs 3:00pm - 4:00pm
       image: staff/Roshan.jpeg
-      zoom:
+      zoom: https://cmu.zoom.us/j/9063848845
 
     - name: Xiqiao Guo
       email: xiqiaog@andrew.cmu.edu
       url: 
-      office-hours: Tues 12:00pm - 1:00pm
+      office-hours: Tues 10:00am - 11:00am
       image: staff/Xiqiao.jpg
-      zoom:
+      zoom: https://cmu.zoom.us/j/8322777523
 
 
     - name: Tiancheng Zhao
