@@ -137,6 +137,7 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11    
   logistics:
 
 # - date: Th 02/18
@@ -167,22 +168,26 @@
 - date: M 09/19
   lecturer: 
   title: >
-    <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
-  slides:
+    <strong>Function approximation in prediction and control, Deep Q-learning</strong>
+  slides: https://www.dropbox.com/s/vnp713mttwx24ga/lecture_FA_F22.pdf?dl=0
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 
 
 - date: W 09/21
   lecturer: 
   title: >
-    <strong>Planning, Monte Carlo Tree search</strong>
+    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   slides: 
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video: 
 
 - date: F 09/23
