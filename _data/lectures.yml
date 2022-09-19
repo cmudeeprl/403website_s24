@@ -184,8 +184,7 @@
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   slides: 
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video: 
@@ -234,26 +233,25 @@
 - date: M 09/26
   lecturer: 
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
+    <strong>Buffer</strong>
   slides: 
   video: 
   notes:
   readings:
-    - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
+    # - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
 
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
-    - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+    # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
+    # - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
   logistics: <span class="deadline">HW1 due 11:59pm</span> <br>
 
 - date: W 09/28
   lecturer: 
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
+    <strong>Buffer</strong>
   slides: 
   video: 
   readings:
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
 
   logistics: <span class="event">HW2 out (tentative)</span> <br>
