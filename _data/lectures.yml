@@ -169,7 +169,7 @@
   lecturer: 
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning</strong>
-  slides: https://www.dropbox.com/s/vnp713mttwx24ga/lecture_FA_F22.pdf?dl=0
+  slides: https://www.dropbox.com/s/bxtducpt2e5381e/lecture_FA_F22.pdf?dl=0
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
@@ -182,7 +182,7 @@
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/dz4hvr0onx701en/PG_F22.pdf?dl=0
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -245,12 +245,14 @@
 - date: W 09/28
   lecturer: 
   title: >
-    <strong>Buffer</strong>
+    <strong>Natural PG, PPO, TRPO</strong>
   slides: 
   video: 
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
   logistics: <span class="event">HW2 out (tentative)</span> <br>
 
 - date: F 09/30
