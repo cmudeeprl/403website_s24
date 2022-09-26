@@ -234,7 +234,7 @@
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/dz4hvr0onx701en/PG_F22.pdf?dl=0
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
