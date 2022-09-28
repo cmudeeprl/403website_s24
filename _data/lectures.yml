@@ -246,7 +246,7 @@
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/4s4xsunncjnw00x/NaturalPolicyGradientsF22.pdf?dl=0
   video: 
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
