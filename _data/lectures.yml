@@ -318,14 +318,15 @@
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/1waaspgny0ebstd/immitationlearning_F22.pdf?dl=0
   video: 
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-    - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>  
+    - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
+    # - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>  
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
     # - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
@@ -352,11 +353,15 @@
 - date: W 10/12
   lecturer: 
   title: >
-    <strong>Buffer</strong>
+    <strong>Imitation learning (cont.), Adversarial imitation learning</strong>
   slides: 
   video: 
   notes:
   readings:
+    - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a>
+    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
+    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     # - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
@@ -418,7 +423,7 @@
 - date: M 10/24
   lecturer: 
   title: >
-    <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
+    <strong>Buffer</strong>
   slides: 
   video: 
   notes:
@@ -427,10 +432,7 @@
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a>
-    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-    - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
-    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
+    
   logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 11:59PM</span>
 
 - date: W 10/26
