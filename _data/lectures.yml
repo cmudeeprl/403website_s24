@@ -426,11 +426,14 @@
 - date: M 10/24
   lecturer: 
   title: >
-    <strong>Buffer</strong>
+    <strong>Transporter networks for Robot manipulation (cont.), Model-based RL in low-dim state space</strong>
   slides: 
   video: 
   notes:
   readings:
+    - Zeng et. al <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
+    - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
@@ -441,21 +444,37 @@
 - date: W 10/26
   lecturer: 
   title: >
-    <strong>Model based RL, Low dimensional model, Explicit models. </strong>
+    <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
   slides: 
   video:
   notes:
   readings:
-  # -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-  # -(optional) Janner et al.  <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model: Model-Based Policy Optimization</a>
-  # -(optional) Kurutach et al. 1 <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
-  # -Kaiser et al.  <a href="" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-  - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-  - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
-  - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
-  - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-  - (optional) Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model based Reinforcement Lerning for Atari</a>
-  - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
+    # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
+    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+
+  # title: >
+  #   <strong>Model based RL, Low dimensional model, Explicit models. </strong>
+  # slides: 
+  # video:
+  # notes:
+  # readings:
+  # # -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  # # -(optional) Janner et al.  <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model: Model-Based Policy Optimization</a>
+  # # -(optional) Kurutach et al. 1 <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  # # -Kaiser et al.  <a href="" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
+  # - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  # - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  # - (optional) Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model based Reinforcement Lerning for Atari</a>
+  # - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
   # - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
 
 # - date: F 10/28
@@ -791,7 +810,7 @@
 - date: W 12/07
   lecturer: 
   title: >
-    <strong>Transporter Networks for Vision-Based Manipulation </strong>
+    <strong>Language-guided Control </strong>
   slides: 
   notes:
   readings:
