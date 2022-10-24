@@ -427,7 +427,8 @@
   lecturer: 
   title: >
     <strong>Transporter networks for Robot manipulation (cont.), Model-based RL in low-dim state space</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/uhumalwovumf4xo/ILManipulationTransporters.pdf?dl=0
+  slides2: https://www.dropbox.com/s/mvvmbh5420shbf3/MBRLRL_lowdimexplicit_F22.pdf?dl=0
   video: 
   notes:
   readings:
