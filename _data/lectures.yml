@@ -445,8 +445,8 @@
 - date: W 10/26
   lecturer: 
   title: >
-    <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
-  slides: 
+    <strong>MBRL (cont), AlphaGo, AlphaGoZero</strong>
+  slides: https://www.dropbox.com/s/xbhtfnidtzlnuor/MBRL_AlphaZeroMuzero_F22.pdf?dl=0
   video:
   notes:
   readings:
@@ -457,8 +457,8 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
 
   # title: >
   #   <strong>Model based RL, Low dimensional model, Explicit models. </strong>
