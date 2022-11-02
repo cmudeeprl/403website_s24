@@ -523,11 +523,12 @@
   lecturer: 
   title: >
     <strong>MBRL (cont.)  Deterministic and stochastic latent dynamics models</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/sky0wulzaer8wcd/MBRL_muZero.pdf?dl=0
+  slides2: https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
   video:
   notes:
   readings:
-    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:" Mastering Go, chess, shogi and Atari without rules</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
     - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
@@ -561,7 +562,7 @@
   lecturer: 
   title: >
     <strong>Dynamics learning  with graph neural networks</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/35spe62u6pnsdfr/TD-MPC%20Slides.pdf?dl=0
   video: 
   notes:
   readings:
