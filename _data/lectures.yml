@@ -562,7 +562,8 @@
   lecturer: 
   title: >
     <strong>Dynamics learning  with graph neural networks</strong>
-  slides: https://www.dropbox.com/s/35spe62u6pnsdfr/TD-MPC%20Slides.pdf?dl=0
+  slides: https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
+  slides2: https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   video: 
   notes:
   readings:
