@@ -583,8 +583,8 @@
   lecturer: 
   title: >
     <strong> Dynamics learning with graph neural networks</strong>
-  slides: 
-  slides2: 
+  slides: https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
+  slides2: https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video: 
