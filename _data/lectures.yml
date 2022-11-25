@@ -685,10 +685,11 @@
   lecturer: Zoom Only
   title: >
     <strong>Sim2Real Transfer </strong>
-  slides: 
+  slides: https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
   video: 
   notes: 
   readings:
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">RMA: Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
@@ -717,6 +718,7 @@
   video: 
   notes:
   readings:
+    - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
 
