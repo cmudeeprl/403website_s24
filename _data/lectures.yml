@@ -778,7 +778,7 @@
 - date: W 11/30
   title: >
     <strong> Self-Supervised Visual Learning</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
