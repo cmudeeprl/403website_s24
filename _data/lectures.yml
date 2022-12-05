@@ -831,7 +831,7 @@
   lecturer: Katerina
   title: >
     <strong>Control with 3D visual representations </strong>
-  slides: 
+  slides: https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
   notes:
   readings: 
     - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
