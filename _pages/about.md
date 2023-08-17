@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2022 • Carnegie Mellon University
+description: 10-703 • Fall 2023 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -37,13 +37,13 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
-- **Recitations:** Friday 11:50 AM - 1:10 PM
-- **Lecture/Recitation Location:** [HOA 160](https://www.google.com/maps/place/Hall+of+Arts/@40.4428819,-79.9477952,16z/data=!3m1!5s0x8834f2203033113d:0xee0377a92536e698!4m9!1m2!2m1!1shoa+160+cmu!3m5!1s0x8834f35a1ad202e9:0x797e3cde94db75d4!8m2!3d40.4406681!4d-79.9422936!15sCgtob2EgMTYwIGNtdZIBBnNjaG9vbOABAA){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 2:00 PM - 3:20 PM
+- **Recitations:** Friday 2:00 PM - 3:20 PM
+- **Lecture/Recitation Location:** [GHC 4401](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4436655,-79.9470514,17z/data=!3m1!4b1!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r?entry=ttu){:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
-<!-- - **Contact:** For external enquiries, personal matters or in emergencies, you can email Brynn at
-bedmunds@andrew.cmu.edu. -->
+- **Contact:** For external enquiries, personal matters or in emergencies, you can email Joshmin at
+joshminr@andrew.cmu.edu.
 
 ***
