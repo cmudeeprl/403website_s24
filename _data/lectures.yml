@@ -527,7 +527,7 @@
 - date: F 11/17
   lecturer:
   recitation: >
-    <strong>Recitation</strong>
+    <strong>Homework 5</strong>
   notes:
   readings:
   logistics:
@@ -592,7 +592,7 @@
 
 - date: F 12/01
   lecturer:
-  recitation: <strong>Homework 5</strong>
+  recitation: <strong>Recitation</strong>
   slides: # https://docs.google.com/presentation/d/1Kno3PWBEP89-ANNHCtCENkxg-P2sbnm-b2BrMi0p834/edit?usp=sharing
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
@@ -614,13 +614,8 @@
     - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
     - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
     - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
-  logistics:
+  logistics: <span class="deadline">HW5 due 11:59PM</span>
 
-
-# - date: Su 05/09
-#   lecturer:
-#   title: >
-#     <strong>HW5 due 05/09 11:59pm</strong>
 
 - date: W 12/06
   lecturer: 
@@ -632,7 +627,7 @@
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
     - (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
-  logistics: <span class="deadline">HW5 due 11:59PM</span>
+  logistics: 
       
 
 - date: F 12/08
