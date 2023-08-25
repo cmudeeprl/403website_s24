@@ -13,29 +13,29 @@ EducationAssociates:
       image: staff/Joshmin.jpeg
 
 TAs:
-    # - name: Youngseog Chung
-    #   email: youngsec@andrew.cmu.edu
-    #   url:
-    #   office-hours: # Wed 5:00pm - 6:00pm
-    #   location: # WEH 5421
-    #   image: # staff/Alan.jpg
-    #   zoom: # https://cmu.zoom.us/j/2310497456
+    - name: Youngseog Chung
+      email: youngsec@andrew.cmu.edu
+      url:
+      office-hours: # Wed 5:00pm - 6:00pm
+      location: # WEH 5421
+      image: staff/chung_youngseog_mld.jpg
+      zoom: # https://cmu.zoom.us/j/2310497456
 
-    # - name: Athiya Deviyani
-    #   email: adeviyan@andrew.cmu.edu
-    #   url: 
-    #   office-hours: # Wed 2:00pm - 3:00pm
-    #   location: # NSH 3128
-    #   image: # staff/Brian.jpg
-    #   zoom: # https://cmu.zoom.us/j/2064967363
+    - name: Athiya Deviyani
+      email: adeviyan@andrew.cmu.edu
+      url: 
+      office-hours: # Wed 2:00pm - 3:00pm
+      location: # NSH 3128
+      image: staff/Athiya.jpeg
+      zoom: # https://cmu.zoom.us/j/2064967363
 
-    # - name: Amy Lin
-    #   email: amylin2@andrew.cmu.edu
-    #   url: 
-    #   office-hours: # Tues 3:00pm - 4:00pm
-    #   location: # GHC 8228
-    #   image: # staff/Lawrence.jpg
-    #   zoom: # https://cmu.zoom.us/j/4891032108
+    - name: Amy Lin
+      email: amylin2@andrew.cmu.edu
+      url: 
+      office-hours: # Tues 3:00pm - 4:00pm
+      location: # GHC 8228
+      image: staff/Amy.jpg
+      zoom: # https://cmu.zoom.us/j/4891032108
 
     # - name:  
     #   email: 
