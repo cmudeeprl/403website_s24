@@ -15,7 +15,7 @@
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
-  slides: # https://www.dropbox.com/s/lzfgs4xcrk34qdm/banditsexploreF22.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/dg7wqtvb2up3q6dvsusso/banditsexploreF23.pdf?rlkey=kujeq60kt3vyy572jkvw55z1q&dl=0
   # slides2:
   video: 
   notes:
@@ -34,10 +34,10 @@
   title:
   recitation: >
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
-  slides: # https://docs.google.com/presentation/d/18SMCO1P6w9RgRgA-RDJUU_hdHBpgwfOsDQDYmSGOLvY/edit#slide=id.p
+  slides: https://www.dropbox.com/scl/fi/zl4o35j64uhllk8vhx01b/lecture_mdps-_policyvalueIterF23.pdf?rlkey=bvte4cd5fbj5966xjyr6a10fg&dl=0
   notes: 
   slides2: 
-  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
+  # slides2: 
   video: 
   notes2: 
 
