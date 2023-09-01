@@ -37,12 +37,18 @@ TAs:
       image: staff/Amy.jpg
       zoom: # https://cmu.zoom.us/j/4891032108
 
-    # - name:  
-    #   email: 
-    #   url: 
-    #   office-hours: # Tues 4:00pm - 5:00pm
-    #   location: # GHC 8228
-    #   image: # staff/Raj.jpg
-    #   zoom: # https://cmu.zoom.us/j/3444156279
+    - name:  Lawrence Jang
+      email: ljang@andrew.cmu.edu
+      url: 
+      office-hours: TBD # Tues 4:00pm - 5:00pm
+      location: TBD # GHC 8228
+      image: staff/Lawrence.jpg
+      zoom: # https://cmu.zoom.us/j/3444156279
 
-
+    - name:  Alex Kireeff
+      email: akireeff@andrew.cmu.edu
+      url: 
+      office-hours: TBD # Tues 4:00pm - 5:00pm
+      location: TBD # GHC 8228
+      image: staff/Alex.jpeg
+      zoom: # https://cmu.zoom.us/j/3444156279
