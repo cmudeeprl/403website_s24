@@ -61,7 +61,7 @@
   lecturer: 
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  slides: https://www.dropbox.com/scl/fi/bij1qaiyz5oaen4ut8wjq/lecture_mdps-_policyvalueIterF23.pdf?rlkey=ljes07y7b3lal5yg9hjt6m0ce&dl=0
+  slides: https://www.dropbox.com/s/wphs6w64xooh0pt/lecture_mdps%20_policyvalueIterF23.pdf?dl=0
   video: 
   notes:
   readings:
@@ -86,8 +86,8 @@
   lecturer: 
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: # https://www.dropbox.com/s/j7rns6fcprr5b30/lecture_mdps%20_policyvalueIterF22.pdf?dl=0
-  slides2: # https://www.dropbox.com/s/beuqis76uaboymx/lecture_MCTD_F22.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/2je2obhcxti1mdc1u9rys/lecture_MCTD_F23.pdf?rlkey=wbiifyewp7ameo89ru3qsd3x5&dl=0
+  slides2: 
   video: 
   notes:
   readings:
