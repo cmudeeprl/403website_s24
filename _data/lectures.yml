@@ -109,16 +109,16 @@
   logistics:
 
 
-# - date: F 09/15
-#   lecturer:
-#   title:
-#   recitation: >
-#     <strong>HW1</strong>
-#   slides: # https://docs.google.com/presentation/d/1mLWaDV2CrgxNGTTJxOcnTJRZce9KBTPJETa0B2oYSbs/edit?usp=sharing
-#   video: 
-#   notes:
-#   readings:
-#   logistics:
+  # - date: F 09/15
+  #   lecturer:
+  #   title:
+  #   recitation: >
+  #     <strong>HW1</strong>
+  #   slides: # https://docs.google.com/presentation/d/1mLWaDV2CrgxNGTTJxOcnTJRZce9KBTPJETa0B2oYSbs/edit?usp=sharing
+  #   video: 
+  #   notes:
+  #   readings:
+  #   logistics:
 
 - date: F 09/15
   lecturer: 
