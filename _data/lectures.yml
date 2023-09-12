@@ -536,7 +536,7 @@ lecturer: # Zoom Only
 
 
 - date: M 11/20
-lecturer: 
+  lecturer: 
   title: >
     <strong> Visual Imitation Learning</strong>
   slides: # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
