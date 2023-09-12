@@ -40,7 +40,6 @@
   # slides2: 
   video: 
   notes2: 
-
   # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
   readings:
@@ -56,6 +55,7 @@
   lecturer:
   quiz: >
     <strong>Labor Day - No Classes</strong>
+  logistics:
 
 - date: W 09/06
   lecturer: 
@@ -132,7 +132,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-
+  logistics:
 
 - date: M 09/18
   lecturer: 
@@ -144,7 +144,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video: 
-
+  logistics:
 
 - date: W 09/20
   lecturer: 
@@ -200,7 +200,7 @@ lecturer:
     - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
     - Haarnoja et al. <a href="https://arxiv.org/pdf/1801.01290.pdf" target="_blank">Soft Actor-Critic:Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
     # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
-
+  logistics:
 
 - date: F 09/29
   lecturer:
@@ -328,18 +328,19 @@ lecturer:
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
-
+  logistics:
 
 - date: W 10/18
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
+  logistics:
 
 - date: F 10/20
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
-
+  logistics:
 
 - date: M 10/23
   lecturer: 
@@ -387,7 +388,7 @@ lecturer:
   lecturer:
   quiz: >
     <strong>TBD</strong>
-
+  logistics:
 
 - date: M 10/30
   lecturer: 
@@ -427,7 +428,7 @@ lecturer:
     - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-  
+  logistics:
 
 
 
@@ -510,7 +511,7 @@ lecturer:
   logistics:
 
 - date: W 11/15
-lecturer: # Zoom Only
+  lecturer: # Zoom Only
   title: >
     <strong>Sim2Real Transfer </strong>
   slides: # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
@@ -554,13 +555,13 @@ lecturer: # Zoom Only
   lecturer:
   quiz: >
     <strong>Thanksgiving Break - No Classes</strong>
-
+  logistics:
 
 - date: F 11/24
   lecturer:
   quiz: >
     <strong>Thanksgiving Break - No Classes</strong>
-
+  logistics:
 
 
 - date: M 11/27
@@ -573,7 +574,7 @@ lecturer: # Zoom Only
     - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
     - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
     - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
-
+  logistics:
 
 - date: W 11/29
   lecturer: Katerina
@@ -598,8 +599,6 @@ lecturer: # Zoom Only
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
     # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
   logistics:
-
-
 
 - date: M 12/04
   lecturer: 
