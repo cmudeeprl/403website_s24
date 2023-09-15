@@ -100,7 +100,7 @@
   lecturer: 
   title:
     <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.) , Planning, Monte Carlo Tree search</strong>
-  slides: https://www.dropbox.com/scl/fi/cy2shdcv23ypryczsnp79/MCTS_F23.pdf?rlkey=9ubxh7625ahbzbcr4l2f8jvzh&dl=0
+  slides: https://www.dropbox.com/scl/fi/2je2obhcxti1mdc1u9rys/lecture_MCTD_F23.pdf
   slides2: 
   video: 
   notes:
@@ -113,8 +113,8 @@
 - date: F 09/15
   lecturer: 
   title: >
-    <strong>Function approximation in prediction and control, Deep Q-learning</strong>
-  slides: # https://www.dropbox.com/s/bxtducpt2e5381e/lecture_FA_F22.pdf?dl=0
+    <strong>Planning, Monte Carlo Tree search</strong>
+  slides: https://www.dropbox.com/scl/fi/cy2shdcv23ypryczsnp79/MCTS_F23.pdf
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
