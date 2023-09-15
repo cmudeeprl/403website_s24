@@ -114,7 +114,7 @@
   lecturer: 
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
-  slides: https://www.dropbox.com/scl/fi/cy2shdcv23ypryczsnp79/MCTS_F23.pdf
+  slides: https://www.dropbox.com/scl/fi/cy2shdcv23ypryczsnp79/MCTS_F23.pdf?rlkey=9ubxh7625ahbzbcr4l2f8jvzh&dl=0
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
