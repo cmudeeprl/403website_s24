@@ -151,7 +151,7 @@
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://www.dropbox.com/scl/fi/xzbnikc3rdyiqzsnhv42g/PG_F23.pdf?rlkey=qtr1r13d3a2nhkyiv1p30w2ml&dl=0 # https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
+  slides:  https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
   video: 
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
