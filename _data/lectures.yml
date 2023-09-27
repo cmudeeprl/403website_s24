@@ -250,8 +250,8 @@
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides: # https://www.dropbox.com/s/1waaspgny0ebstd/immitationlearning_F22.pdf?dl=0
-  video: 
+  slides: https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0 
+  video: # https://www.dropbox.com/s/1waaspgny0ebstd/immitationlearning_F22.pdf?dl=0
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
