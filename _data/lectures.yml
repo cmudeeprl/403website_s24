@@ -198,8 +198,8 @@
   lecturer:
   title:
   recitation: >
-    <strong>MCTS, TD Learning, Deep Q Learning</strong>
-  slides: # https://cmudeeprl.github.io/703website_f22/assets/recitation/recitation_4_imagenet_merged.pdf
+    <strong>MCTS, TD Learning, Deep Q Learning, HW2</strong>
+  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/10703_Recitation_3.pdf
   video: 
   notes:
   readings:
