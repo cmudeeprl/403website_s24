@@ -274,16 +274,16 @@
 - date: W 10/11
   lecturer: 
   title: >
-    <strong>Adversarial imitation learning, Imitation learning for vision-based manipulation</strong>
-  slides: # https://www.dropbox.com/s/uhumalwovumf4xo/ILManipulationTransporters.pdf?dl=0
-  slides2: # https://www.dropbox.com/s/ugtcolgvwg18zia/GAILF22.pdf?dl=0
+    <strong>Imitation learning with generative models, multigoal imitation learning and RL</strong>
+  slides: https://www.dropbox.com/s/88m4w0dj3nobruj/immitationlearning_F23_1.pdf?dl=0
+  slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
   video: 
   notes:
   readings:
     - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a>
-    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    # - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
     - Zeng et. al <a href="https://transporternets.github.io/"  target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
-    - Seita et al. <a href="https://arxiv.org/abs/2012.03385"  target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
+    # - Seita et al. <a href="https://arxiv.org/abs/2012.03385"  target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
 
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
