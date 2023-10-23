@@ -254,7 +254,7 @@
   video: 
   notes:
   readings:
-    - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     # - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
@@ -332,14 +332,16 @@
   lecturer: 
   title: >
     <strong>Imitation learning with generative models (cond. ), multigoal imitation learning and reinforcement learning</strong>
-  slides: # https://www.dropbox.com/s/uhumalwovumf4xo/ILManipulationTransporters.pdf?dl=0
+  slides: https://www.dropbox.com/s/ytes7sdyp5sw2tt/immitationlearning_F23_2.pdf?dl=0
   slides2: # https://www.dropbox.com/s/mvvmbh5420shbf3/MBRLRL_lowdimexplicit_F22.pdf?dl=0
   video: 
   notes:
   readings:
     - Zeng et al. <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
-    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
-    - Andrychowicz et al. < href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+    - Pearce et. al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    - Calvin Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank"> Understanding Diffusion Models:A Unified Perspective</a>
+    - (optional) Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
