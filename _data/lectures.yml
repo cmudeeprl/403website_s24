@@ -354,7 +354,8 @@
   lecturer: 
   title: >
     <strong>AlphaGo, AlphaGoZero, AlphaZero, Muzero</strong>
-  slides: # https://www.dropbox.com/s/xbhtfnidtzlnuor/MBRL_AlphaZeroMuzero_F22.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/rxzu4dmwjtisc30d8al5j/MBRL_AlphaZero_F23.pdf?rlkey=z8cpc226xizxlm56fw4xwh3bd&dl=0
+  slides2: https://www.dropbox.com/scl/fi/qii5zfm51c3646w7nklrk/MBRLRL_lowdimexplicit_F23.pdf?rlkey=e3mtrjd60je3ybrsi1kwssdfu&dl=0
   video:
   notes:
   readings:
