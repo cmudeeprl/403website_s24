@@ -373,8 +373,10 @@
 
 - date: F 10/27
   lecturer:
-  quiz: >
-    <strong>TBD</strong>
+  recitation: >
+    <strong>HW3, Gaussian Processes, Bayes Optimization</strong>
+  slides: https://docs.google.com/presentation/d/1hSBdWhY1zZVcyn3v7zHMcGVIonHNxhOHZ7LFwlfzt0U/edit#slide=id.g293c988d0a6_0_0
+  slides2: https://cmudeeprl.github.io/703website_f23/assets/recitation/bo_gp_slides.pdf
   logistics:
 
 
@@ -430,7 +432,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Quiz 2 Review</strong>
+    <strong>Quiz 2 Review & HW4</strong>
   slides: # https://docs.google.com/presentation/d/1-07O9H_-UrDkB6pSox7YGzqsRjTfK6vqVpLRLd2s9PQ/edit#slide=id.g17e7edab052_0_64
   video: 
   notes:
