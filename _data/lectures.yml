@@ -365,8 +365,7 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics: 
 
@@ -383,15 +382,16 @@
 - date: M 10/30
   lecturer: 
   title: >
-    <strong>AlphaGoZero, MBRL in sensory space</strong>
-  slides: # https://www.dropbox.com/s/ixv79k6jn562w0z/MBRLRL_sensory.pdf?dl=0
+    <strong>MBRL in explicit and observable low-sim state spaces</strong>
+  slides: https://www.dropbox.com/s/gbnmww4w1knawvg/MBRLexplicitF23.pdf?dl=0
   slides2: # https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
   video:
   notes:
   readings:
-    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
+    # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
     # - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
@@ -405,16 +405,18 @@
 - date: W 11/01
   lecturer: 
   title: >
-    <strong>MBRL (cont.) Deterministic latent dynamics models</strong>
+    <strong>MBRL from sensory input, planning in sensory space, planning in a latent state space</strong>
   slides: # https://www.dropbox.com/s/sky0wulzaer8wcd/MBRL_muZero.pdf?dl=0
   slides2: # https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
   video:
   notes:
   readings:
+    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
-    # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
@@ -427,20 +429,7 @@
     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics:
 
-
 - date: F 11/03
-  lecturer:
-  title:
-  recitation: >
-    <strong>Quiz 2 Review & HW4</strong>
-  slides: # https://docs.google.com/presentation/d/1-07O9H_-UrDkB6pSox7YGzqsRjTfK6vqVpLRLd2s9PQ/edit#slide=id.g17e7edab052_0_64
-  video: 
-  notes:
-  readings:
-  logistics:
-
-
-- date: M 11/06
   lecturer: 
   title: >
     <strong>MBRL (cont.) Stochastic latent dynamics models</strong>
@@ -453,6 +442,17 @@
     - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
+  logistics:
+
+- date: M 11/06
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 2 Review & HW4</strong>
+  slides: # https://docs.google.com/presentation/d/1-07O9H_-UrDkB6pSox7YGzqsRjTfK6vqVpLRLd2s9PQ/edit#slide=id.g17e7edab052_0_64
+  video: 
+  notes:
+  readings:
   logistics:  <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
 
 
@@ -468,7 +468,6 @@
   notes:
   readings:
     - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     # - Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     # - Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
