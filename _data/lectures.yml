@@ -382,7 +382,7 @@
 - date: M 10/30
   lecturer: 
   title: >
-    <strong>MBRL in explicit and observable low-sim state spaces</strong>
+    <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
   slides: https://www.dropbox.com/s/gbnmww4w1knawvg/MBRLexplicitF23.pdf?dl=0
   slides2: # https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
   video:
