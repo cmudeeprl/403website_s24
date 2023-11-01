@@ -352,7 +352,7 @@
 - date: W 10/25
   lecturer: 
   title: >
-    <strong>AlphaGo, AlphaGoZero, AlphaZero, uncertainty-aware low-dim model-based RL</strong>
+    <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
   slides: https://www.dropbox.com/scl/fi/rxzu4dmwjtisc30d8al5j/MBRL_AlphaZero_F23.pdf?rlkey=z8cpc226xizxlm56fw4xwh3bd&dl=0
   slides2: https://www.dropbox.com/scl/fi/qii5zfm51c3646w7nklrk/MBRLRL_lowdimexplicit_F23.pdf?rlkey=e3mtrjd60je3ybrsi1kwssdfu&dl=0
   video:
@@ -413,9 +413,9 @@
   readings:
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
@@ -439,8 +439,8 @@
   notes:
   readings:
     - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
-    - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
   logistics:
 
@@ -459,7 +459,7 @@
 - date: W 11/08
   lecturer: 
   title: >
-    <strong> Dynamics learning with graph neural networks</strong>
+    <strong> Intelligent Exploration</strong>
   slides: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
@@ -467,7 +467,12 @@
   video: 
   notes:
   readings:
-    - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
+    - (optional) Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+    # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     # - Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     # - Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
@@ -487,39 +492,35 @@
 - date: M 11/13
   lecturer: 
   title: >
-    <strong>Intelligent Exploration</strong>
+    <strong>Offline RL, Learning by Observation</strong>
   slides: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   slides2: 
-  video: 
-  notes:
-  readings:
-    - (optional) Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-    - (optional) Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-    # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
-    # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
-    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-  logistics:
-
-- date: W 11/15
-  lecturer: 
-  recitation:
-  title: >
-    <strong>Offline RL, Learning by Observation</strong>
-  slides: 
   video: 
   notes:
   readings:
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
     - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
+    # - (optional) Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+    # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
+    # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+  logistics:
+
+- date: W 11/15
+  lecturer: Aviral Kumar
+  recitation:
+  title: >
+    <strong>Offline RL</strong>
+  slides: 
+  video: 
+  notes:
+  readings:
+    - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 
@@ -584,7 +585,6 @@
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
     - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
-    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
     - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
   logistics:
 
@@ -603,27 +603,34 @@
 - date: M 12/04
   lecturer: 
   title: >
-    <strong>Control with 3D visual representations </strong>
+    <strong>Planning and control with Large Language models</strong>
   slides: # https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
   notes:
   readings: 
-    - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
-    - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
-    - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
-    - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
+    - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
+    - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
+    - Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
+    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
+    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
+    # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
+    # - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
 - date: W 12/06
   lecturer: 
   title: >
-    <strong>Language-guided Control </strong>
+    <strong>Multimodal Policies , Control and 3D Spatial Representations</strong>
   slides: # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
   notes:
   readings:
+    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
+    - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+    - Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
+    - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-    - (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
   logistics:
       
 
