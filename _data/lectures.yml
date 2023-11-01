@@ -406,7 +406,8 @@
   lecturer: 
   title: >
     <strong>MBRL from sensory input, planning in sensory space, planning in a latent state space</strong>
-  slides: # https://www.dropbox.com/s/sky0wulzaer8wcd/MBRL_muZero.pdf?dl=0
+  slides: https://www.dropbox.com/s/xk6w05o60i6idtq/MBRLRL_latentF23.pdf?dl=0
+        # https://www.dropbox.com/s/sky0wulzaer8wcd/MBRL_muZero.pdf?dl=0
   slides2: # https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
   video:
   notes:
