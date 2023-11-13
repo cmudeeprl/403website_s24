@@ -462,6 +462,7 @@
   title: >
     <strong> Intelligent Exploration</strong>
   slides: https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
+  # https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
   # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
@@ -495,8 +496,9 @@
   lecturer: 
   title: >
     <strong>Offline RL, Learning by Observation</strong>
-  slides: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
-  slides2: 
+  slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
+  # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
+  slides2: https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
   video: 
   notes:
   readings:
@@ -523,7 +525,7 @@
     - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-  logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
+  logistics:  
 
 
 - date: F 11/17
@@ -532,7 +534,7 @@
     <strong>Homework 5</strong>
   notes:
   readings:
-  logistics:
+  logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 - date: M 11/20
   lecturer: 
