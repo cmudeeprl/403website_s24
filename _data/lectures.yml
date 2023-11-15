@@ -498,13 +498,13 @@
     <strong>Offline RL, Learning by Observation</strong>
   slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
   # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
-  slides2: https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
+  slides2: # https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
   video: 
   notes:
   readings:
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-    - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
+    # - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     # - (optional) Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
@@ -518,7 +518,7 @@
   recitation:
   title: >
     <strong>Offline RL</strong>
-  slides: 
+  slides: https://www.dropbox.com/scl/fi/o9ygnag7mftn416z48c0y/deep_rl_cmu_guest_lecture.pdf?rlkey=c7hprt8jj7mlukgx46kujceo2&dl=0
   video: 
   notes:
   readings:
