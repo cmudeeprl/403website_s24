@@ -571,7 +571,8 @@
   lecturer: 
   title: >
     <strong> Visual Imitation Learning</strong>
-  slides: # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
+  slides: https://www.dropbox.com/s/0edhfqy84rpzjae/VisualImitationF23.pdf?dl=0
+  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
   video: 
   notes:
@@ -579,6 +580,7 @@
     - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    - Baker et al. <a href="https://arxiv.org/pdf/2206.11795.pdf" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics:
 
 
