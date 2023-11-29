@@ -585,15 +585,24 @@
 
 
 - date: W 11/29
-  lecturer:
+  lecturer: 
   title: >
-    <strong> Self-Supervised Visual Learning</strong>
-  slides: # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
+    <strong>Language and Robot Control</strong>
+  slides: https://www.dropbox.com/scl/fi/x2kdhnr9s0qgk0ue53vfw/Languageandbehaviourlearning_F23.pdf?rlkey=o2dnvg7x42ssloxw4ur9vv340&dl=0
+  # https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
   notes:
-  readings:
-    - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
-    - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
-    - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
+  readings: 
+    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
+    - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+    - Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
+    - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
+    # - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
+    - Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
+    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
+    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
+    # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
+    # - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
   logistics:
 
 
@@ -609,20 +618,15 @@
   logistics:
 
 - date: M 12/04
-  lecturer: 
+  lecturer:
   title: >
-    <strong>Planning and control with Large Language models</strong>
-  slides: # https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
+    <strong> Self-Supervised Visual Learning</strong>
+  slides: # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
   notes:
-  readings: 
-    - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
-    - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
-    - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
-    - Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
-    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
-    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
-    # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
-    # - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
+  readings:
+    - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
+    - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
+    - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
@@ -633,9 +637,6 @@
   slides: # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
   notes:
   readings:
-    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
-    - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
-    - Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
     - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
