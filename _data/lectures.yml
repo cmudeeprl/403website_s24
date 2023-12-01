@@ -609,7 +609,8 @@
 - date: F 12/01
   lecturer:
   recitation: <strong>Recitation</strong>
-  slides: # https://docs.google.com/presentation/d/1Kno3PWBEP89-ANNHCtCENkxg-P2sbnm-b2BrMi0p834/edit?usp=sharing
+  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Quiz_3_Review_Recitation.pdf
+  # https://docs.google.com/presentation/d/1Kno3PWBEP89-ANNHCtCENkxg-P2sbnm-b2BrMi0p834/edit?usp=sharing
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
   readings:
