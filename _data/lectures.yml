@@ -594,11 +594,11 @@
   readings: 
     - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
     - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
-    - Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
     - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
     - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
+    - (optional) Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
+    - (optional) Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
     # - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
-    - Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
     # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
@@ -622,7 +622,8 @@
   lecturer:
   title: >
     <strong> Self-Supervised Visual Learning</strong>
-  slides: # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
+  # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
