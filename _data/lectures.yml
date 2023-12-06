@@ -636,7 +636,9 @@
   lecturer: 
   title: >
     <strong>Multimodal Policies , Control and 3D Spatial Representations</strong>
-  slides: # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/o8gwmz5ufacdz0yl9neak/Diffusion-ES.pdf?rlkey=zbrhsrykal2vqquxueug64027&dl=0
+  # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
+  Slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
   readings:
     - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
