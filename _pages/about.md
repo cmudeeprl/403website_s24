@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2023 • Carnegie Mellon University
+description: 10-403 • Spring 2024 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -29,8 +29,8 @@ Students should have a solid understanding of the following areas
 - Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
 
 **Prerequisites:**
-- Prerequisites: 10601 introduction to machine learning
-- Minimum Grades: B in 10601
+- Prerequisites: 10301/10601 introduction to machine learning
+- Minimum Grades: B in 10301/10601
 - Corequisites: None
 - Anti-requisites: None
 - Anti-req Prohibits: None
