@@ -76,28 +76,6 @@ Each quiz will count equally toward the overall quiz grade.
 
 ***
 
-### Remote Student Engagement
-
-The remote-only (REO) Section B for this course is for students who cannot be on campus due to a government restriction on visas or travel or a documented health issue. To ensure that we are supporting these remote students:
-- Students in the remote section will be included in the course discussion forum, Piazza, to ask and answer questions.
-- Remote students will receive feedback on their assignments via marked rubric items in Gradescope, as all students do.
-- We encourage students to request office hours by appointment as needed. Please contact the course staff if you need more support in office hours.
-- Lectures and recitations will be recorded and made available to students. There may be a delay in posting these recordings while they are processed.
-- Exams will take place at the same time and place as the in-person section. We will require students in the remote section to attend the in-person exams if they are able. Accommodations for students to take the exam remotely at the same day and time as the in-person section will be considered on a case-by-case basis.
-
-***
-
-### AWS Resources
-
-For those of you who need GPU resources for future homeworks, please read through this section carefully.
-
-- **If you are not officially registered for this class, you are not allowed to request resources**. We will be checking before we submit requests, so please do not request access to them.
-- We will be offering AWS resources. All students should join AWS educate using this link: [https://aws.amazon.com/education/awseducate/](https://aws.amazon.com/education/awseducate/) using their **@andrew.cmu.edu email address. If you do not use your andrew email address, your resources may be denied**. You should do this as soon as possible, as it can take time to set up your accounts.
-- AWS NOTE: You need to back this account with your own credit/debit card and we will give out allocation codes of $50, this is important as **should you go over this $50 it will start charging to your card**, please be sure to keep an eye on your funds and not forget to terminate instances. **The university holds no responsibility in paying for additional usage**.
-- We will ask you to complete an Allocation Form in order to apply for your resources. This will be made available later in the semester. Note: HW1 does not require AWS resources.
-
-***
-
 ### Collaboration Policy
 
 (Adapted from Roni Rosenfeld's [10-601 Spring 2016](http://www.cs.cmu.edu/~roni/10601/) Course Policies.)
@@ -213,7 +191,7 @@ What grade is the cutoff for Pass will depend on your program. Be sure to check 
 
 Students with timing conflicts (i.e., who have another class offered at the same time)  will be permitted to take this course.
 
-**However, there may be occasional days when we need you to arrive in person during class time (e.g. for student presentations)**.  We will let you know of any dates we require you to be available, as soon as we know them.
+**However, there may be occasional days when we need you to arrive in person during class time**.  We will let you know of any dates we require you to be available, as soon as we know them.
 
 ***
 
