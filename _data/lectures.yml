@@ -1,4 +1,4 @@
-- date: M 08/28
+- date: W 01/17
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
@@ -12,25 +12,7 @@
   logistics:
 
 
-- date: W 08/30
-  lecturer: 
-  title: >
-    <strong>Multi-armed Bandits</strong>
-  slides: https://www.dropbox.com/scl/fi/dg7wqtvb2up3q6dvsusso/banditsexploreF23.pdf?rlkey=kujeq60kt3vyy572jkvw55z1q&dl=0
-  video: 
-  notes:
-  readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
-    - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
-    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
-    # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
-    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-    # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
-  logistics:
-
-
-- date: F 09/01
+- date: F 01/19
   lecturer:
   title:
   recitation: >
@@ -50,14 +32,25 @@
   logistics:
 
 
-- date: M 09/04
-  lecturer:
-  quiz: >
-    <strong>Labor Day - No Classes</strong>
+- date: M 01/22
+  lecturer: 
+  title: >
+    <strong>Multi-armed Bandits</strong>
+  slides: https://www.dropbox.com/scl/fi/dg7wqtvb2up3q6dvsusso/banditsexploreF23.pdf?rlkey=kujeq60kt3vyy572jkvw55z1q&dl=0
+  video: 
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
+    - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
+    # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics:
 
 
-- date: W 09/06
+- date: W 01/24
   lecturer: 
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
@@ -70,7 +63,7 @@
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
-- date: F 09/08
+- date: F 01/26
   lecturer:
   title:
   recitation: >
@@ -83,7 +76,7 @@
   logistics:
 
 
-- date: M 09/11
+- date: M 01/29
   lecturer: 
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
@@ -96,7 +89,7 @@
   logistics:
 
 
-- date: W 09/13
+- date: W 01/31
   lecturer: 
   title:
     <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.)</strong>
@@ -110,7 +103,7 @@
   logistics:
 
 
-- date: F 09/15
+- date: F 02/02
   lecturer: 
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
@@ -121,7 +114,7 @@
   logistics:
 
 
-- date: M 09/18
+- date: M 02/05
   lecturer: 
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning</strong>
@@ -135,7 +128,7 @@
   logistics:
 
 
-- date: W 09/20
+- date: W 02/07
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
@@ -147,7 +140,7 @@
   video:
   logistics: 
 
-- date: F 09/22
+- date: F 02/09
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
@@ -160,7 +153,7 @@
   logistics:
 
 
-- date: M 09/25
+- date: M 02/12
   lecturer: 
   title: >
     <strong>Deterministic Policy gradient, re-parametrized PG</strong>
@@ -179,7 +172,7 @@
   logistics: <span class="deadline">HW1 due 11:59pm</span>,  <span class="event">HW2 out (tentative)</span> <br>
 
 
-- date: W 09/27
+- date: W 02/14
   lecturer: 
   title: >
     <strong> Evolutionary methods for policy search</strong>
@@ -194,7 +187,7 @@
   logistics:
 
 
-- date: F 09/29
+- date: F 02/16
   lecturer:
   title:
   recitation: >
@@ -206,7 +199,7 @@
   logistics:
 
 
-- date: M 10/02
+- date: M 02/19
   lecturer:
   title:
   recitation: >
@@ -218,7 +211,7 @@
   logistics:
 
 
-- date: W 10/04
+- date: W 02/21
   lecturer:
   title:
   recitation: >
@@ -230,15 +223,14 @@
   logistics:
 
 
-- date: F 10/06
+- date: F 02/23
   lecturer:
   # title:
   recitation:
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
     <strong> Quiz 1 </strong>
-  slides:
-  # # slides2:
+  # slides:
   # video:
   # notes:
   # readings:
@@ -246,7 +238,7 @@
   logistics:
 
 
-- date: M 10/09
+- date: M 02/26
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
@@ -271,7 +263,7 @@
     # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:
 
-- date: W 10/11
+- date: W 02/28
   lecturer: 
   title: >
     <strong>Imitation learning with generative models</strong>
@@ -297,7 +289,7 @@
   logistics: <span class="deadline">HW2 due 11:59PM</span>
 
 
-- date: F 10/13
+- date: F 03/01
   lecturer:
   title:
   recitation: >
@@ -307,28 +299,28 @@
   logistics: 
 
 
-- date: M 10/16
+- date: M 03/04
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: W 10/18
+- date: W 03/06
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: F 10/20
+- date: F 03/08
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: M 10/23
+- date: M 03/11
   lecturer: 
   title: >
     <strong>Imitation learning with generative models (cond. ), multigoal imitation learning and reinforcement learning</strong>
@@ -349,7 +341,7 @@
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics: <span class="event">HW3 out (tentative)</span>
 
-- date: W 10/25
+- date: W 03/13
   lecturer: 
   title: >
     <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
@@ -370,7 +362,7 @@
   logistics: 
 
 
-- date: F 10/27
+- date: F 03/15
   lecturer:
   recitation: >
     <strong>HW3, Gaussian Processes, Bayes Optimization</strong>
@@ -379,7 +371,7 @@
   logistics:
 
 
-- date: M 10/30
+- date: M 03/18
   lecturer: 
   title: >
     <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
@@ -402,7 +394,7 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: W 11/01
+- date: W 03/20
   lecturer: 
   title: >
     <strong>MBRL from sensory input, planning in sensory space, planning in a latent state space</strong>
@@ -430,7 +422,7 @@
     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics:
 
-- date: F 11/03
+- date: F 03/22
   lecturer: 
   title: >
     <strong>MBRL (cont.) Stochastic latent dynamics models</strong>
@@ -445,7 +437,7 @@
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
   logistics:
 
-- date: M 11/06
+- date: M 03/25
   lecturer:
   title:
   recitation: >
@@ -457,7 +449,7 @@
   logistics:  <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
 
 
-- date: W 11/08
+- date: W 03/27
   lecturer: 
   title: >
     <strong> Intelligent Exploration</strong>
@@ -483,7 +475,7 @@
   logistics:
 
 
-- date: F 11/10
+- date: F 03/29
   lecturer:
   recitation:
   quiz: >
@@ -492,7 +484,7 @@
   logistics:
 
 
-- date: M 11/13
+- date: M 04/01
   lecturer: 
   title: >
     <strong>Offline RL, Learning by Observation</strong>
@@ -513,7 +505,7 @@
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
   logistics:
 
-- date: W 11/15
+- date: W 04/03
   lecturer: Aviral Kumar
   recitation:
   title: >
@@ -528,7 +520,7 @@
   logistics:  
 
 
-- date: F 11/17
+- date: F 04/05
   lecturer:
   recitation: >
     <strong>Homework 5</strong>
@@ -537,7 +529,7 @@
   readings:
   logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
-- date: M 11/20
+- date: M 04/08
   lecturer: 
   title: >
     <strong>Sim2Real Transfer </strong>
@@ -554,20 +546,20 @@
   logistics:
 
 
-- date: W 11/22
+- date: W 04/10
   lecturer:
   quiz: >
-    <strong>Thanksgiving Break - No Classes</strong>
+    <strong>TODO, no classes maybe?</strong>
   logistics:
 
 
-- date: F 11/24
+- date: F 04/12
   lecturer:
   quiz: >
-    <strong>Thanksgiving Break - No Classes</strong>
+    <strong>Spring Carnival - No Classes</strong>
   logistics:
 
-- date: M 11/27
+- date: M 04/15
   lecturer: 
   title: >
     <strong> Visual Imitation Learning</strong>
@@ -584,7 +576,7 @@
   logistics:
 
 
-- date: W 11/29
+- date: W 04/17
   lecturer: 
   title: >
     <strong>Language and Robot Control</strong>
@@ -606,7 +598,7 @@
   logistics:
 
 
-- date: F 12/01
+- date: F 04/19
   lecturer:
   recitation: <strong>Recitation</strong>
   slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Quiz_3_Review_Recitation.pdf
@@ -618,7 +610,7 @@
     # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
   logistics:
 
-- date: M 12/04
+- date: M 04/22
   lecturer:
   title: >
     <strong> Self-Supervised Visual Learning</strong>
@@ -632,7 +624,7 @@
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
-- date: W 12/06
+- date: W 04/24
   lecturer: 
   title: >
     <strong>Multimodal Policies , Control and 3D Spatial Representations</strong>
@@ -647,7 +639,7 @@
   logistics:
       
 
-- date: F 12/08
+- date: F 04/26
   lecturer:
   recitation:  <strong>Quiz 3 Review Part II</strong>
   slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Quiz_3_Review_Recitation_2.pdf
@@ -657,10 +649,10 @@
   logistics:
 
 
-- date: 12/12
+- date: ??/??
   lecturer:
   quiz: >
-    <strong>Quiz 3, 5:30pm - 8:30pm, SH 105 (Scaife Hall) </strong>
+    <strong>Quiz 3, TBD </strong>
   slides: 
   notes: 
   readings:
