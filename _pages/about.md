@@ -37,9 +37,9 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 2:00 PM - 3:20 PM
-- **Recitations:** Friday 2:00 PM - 3:20 PM
-- **Lecture/Recitation Location:** [GHC 4401](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4436655,-79.9470514,17z/data=!3m1!4b1!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r?entry=ttu){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 12:30 PM - 01:50 PM
+- **Recitations:** Friday 12:30 PM - 01:50 PM
+- **Lecture/Recitation Location:** [GHC 4215](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4434419,-79.9448852,19z/data=!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r){:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
