@@ -5,50 +5,24 @@ Instructors:
       office-hours: Mon & Wed, 3:20pm - 3:50pm
       image: staff/katef.jpeg
 
-EducationAssociates:
-    - name: Joshmin Ray
-      email: joshminr@andrew.cmu.edu
-      url:
-      office-hours:
-      image: staff/Joshmin.jpeg
-
 TAs:
-    - name: Youngseog Chung
-      email: youngsec@andrew.cmu.edu
-      url:
-      office-hours: Mon, Wed 10:00am - 11:00am
-      location:  See Calendar Tab
-      image: staff/chung_youngseog_mld.jpg
-      # zoom: # https://cmu.zoom.us/j/2310497456
-
-    - name: Athiya Deviyani
-      email: adeviyan@andrew.cmu.edu
-      url: 
-      office-hours: Tues 4:00pm - 5:00pm, Wed 6:00pm - 7:00pm
-      location: See Calendar Tab
-      image: staff/Athiya.jpeg
-      # zoom: # https://cmu.zoom.us/j/2064967363
-
     - name: Amy Lin
       email: amylin2@andrew.cmu.edu
-      url: 
-      office-hours: Mon 6:00pm - 8:00pm
+      url:
+      office-hours: TBD
       location:  See Calendar Tab
       image: staff/Amy.jpg
-      # zoom: # https://cmu.zoom.us/j/4891032108
 
-    - name:  Lawrence Jang
-      email: ljang@andrew.cmu.edu
-      url: 
-      office-hours: Thurs 5:00pm - 7:00pm
-      location: See Calendar Tab
-      image: staff/Lawrence.jpg
-      # zoom: # https://cmu.zoom.us/j/3444156279
-
-    - name:  Alex Kireeff
+    - name: Alex Kireeff
       email: akireeff@andrew.cmu.edu
-      url: 
-      office-hours: Sun 4:00pm - 5:00pm, Wed 7:00pm - 8:00pm
+      url:
+      office-hours: TBD
       location: See Calendar Tab
       image: staff/Alex_400by400.jpg
-      # zoom: # https://cmu.zoom.us/j/3444156279
+
+    - name: Anish Kulkarni
+      email: anishkik@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      location: See Calendar Tab
+      image: staff/tbd.jpg

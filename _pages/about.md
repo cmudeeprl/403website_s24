@@ -43,7 +43,6 @@ Students should have a solid understanding of the following areas
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
-- **Contact:** For external enquiries, personal matters or in emergencies, you can email Joshmin at
-joshminr@andrew.cmu.edu.
+- **Contact:** For external enquiries, personal matters or in emergencies, you can email the TAs and the instructor.
 
 ***

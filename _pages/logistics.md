@@ -167,7 +167,7 @@ In general, we do not grant extensions on assignments. There are several excepti
 
 - **University-Approved Absences:** If you are attending an out-of-town university approved event (e.g. multi-day athletic/academic trip organized by the university), you may request an extension for the duration of the trip. You must provide confirmation of your attendance, usually from a faculty or staff organizer of the event.
 
-For any of the above situations, you may request an extension by emailing [Joshmin](mailto:joshminr@andrew.cmu.edu). The email should be sent as soon as you are aware of the conflict and **at least 5 days prior to the deadline**. In the case of an emergency, no notice is needed.
+For any of the above situations, you may request an extension by emailing the TAs and the instructor. The email should be sent as soon as you are aware of the conflict and **at least 5 days prior to the deadline**. In the case of an emergency, no notice is needed.
 
 ***
 
@@ -183,8 +183,6 @@ What grade is the cutoff for Pass will depend on your program. Be sure to check 
 
 - Official auditing of the course (i.e. taking the course for an  _Audit_ grade) is not permitted this semester.
 
-- Please email [Joshmin](mailto:joshminr@andrew.cmu.edu) if you need further clarification.
-
 ***
 
 ### Students with Course Conflicts
@@ -197,7 +195,7 @@ Students with timing conflicts (i.e., who have another class offered at the same
 
 ### Accommodations for Students with Disabilities
 
-If you have a disability and have an accommodations letter from the Disability Resources office, please discuss your accommodation needs with [Joshmin](mailto:joshminr@andrew.cmu.edu) or one of the instructors as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate.
+If you have a disability and have an accommodations letter from the Disability Resources office, please discuss your accommodation needs with TAs and the instructor as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate.
 
 If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at [access@andrew.cmu.edu](access@andrew.cmu.edu).
 
