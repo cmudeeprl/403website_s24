@@ -23,7 +23,7 @@ Students should have a solid understanding of the following areas
 - Algorithms: e.g., What problem does Dijkstra's algorithm solve?
 - Probability: e.g., What is Bayes rule? How do you normalize a distribution?
 - Computer vision: convolutional networks, object detection architectures, LSTMs, attention models
-- Deep Learning: familiarity  with TensorFlow and/or Pytorch.
+- Deep Learning: familiarity  with TensorFlow and Pytorch.
 - Matrix Calculus: e.g., What are derivatives of matrix-matrix and matrix-vector products? What is the multivariate chain rule?
 - Programming: e.g., What are classes and inheritance? How do you structure read data from files? How do you plot figures to visualize results?
 - Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
