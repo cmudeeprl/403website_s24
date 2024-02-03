@@ -3,7 +3,7 @@
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
   slides: https://www.dropbox.com/scl/fi/7xwscd9c7v48hljcgg8i3/lecture1_introS24.pdf?rlkey=m2ap3au811zd7mekyijyxhwki&dl=0
-  video: 
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
@@ -21,7 +21,7 @@
   notes: 
   slides2: 
   # slides2: 
-  video: 
+  video:
   notes2: 
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
@@ -37,7 +37,7 @@
   title: >
     <strong>Multi-armed Bandits</strong>
   slides: https://www.dropbox.com/s/cdqvta7uut0f9r0/banditsexploreS24.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
@@ -55,7 +55,7 @@
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
   slides: https://www.dropbox.com/scl/fi/30w09d6djls42pzu49r9z/lecture_mdps-_policyvalueIterS24.pdf?rlkey=u9e22hsnkdtpmfstis49w6f2n&dl=0
-  video: 
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
@@ -71,7 +71,7 @@
   slides: https://docs.google.com/presentation/d/10TIpiOKyrF5FmarLVbWxO8smi3wuIOdTXUTHQzi8TQw/edit
   slides2:
   notes: 
-  video: 
+  video:
   readings:
   logistics:
 
@@ -82,7 +82,7 @@
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
   slides: https://www.dropbox.com/scl/fi/be2tmwmtxucdsam1ocjmc/lecture_MCTD_S24.pdf?rlkey=kmld6ygmoop4telfi4k5k1src&dl=0
   slides2: 
-  video: 
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -95,7 +95,7 @@
     <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.)</strong>
   slides: https://www.dropbox.com/scl/fi/2je2obhcxti1mdc1u9rys/lecture_MCTD_F23.pdf?rlkey=wbiifyewp7ameo89ru3qsd3x5&dl=0
   slides2: 
-  video: 
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -104,6 +104,18 @@
 
 
 - date: F 02/02
+  lecturer:
+  title:
+  recitation: >
+    <strong>No Recitation</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+
+- date: M 02/05
   lecturer: 
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
@@ -114,7 +126,7 @@
   logistics:
 
 
-- date: M 02/05
+- date: W 02/07
   lecturer: 
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning</strong>
@@ -124,11 +136,23 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  video: 
+  video:
   logistics:
 
 
-- date: W 02/07
+- date: F 02/09
+  lecturer:
+  title:
+  recitation: >
+    <strong>MCTS, TD Learning, Deep Q Learning, HW2</strong>
+  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/10703_Recitation_3.pdf
+  video:
+  notes:
+  readings:
+  logistics:
+
+
+- date: M 02/12
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
@@ -140,12 +164,12 @@
   video:
   logistics: 
 
-- date: F 02/09
+- date: W 02/14
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
   slides:  https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
-  video: 
+  video:
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
@@ -153,14 +177,26 @@
   logistics:
 
 
-- date: M 02/12
+- date: F 02/16
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 1 Review</strong>
+  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Recitation_4_Quiz1_Review.pdf
+  video:
+  notes:
+  readings:
+  logistics:
+
+
+- date: M 02/19
   lecturer: 
   title: >
     <strong>Deterministic Policy gradient, re-parametrized PG</strong>
   slides: https://www.dropbox.com/scl/fi/mhoeuk9aqiysqqq2dltud/PathwiseDDPGF23.pdf?rlkey=u4ynu1u0huewgolb3489yxh2j&dl=0
   slides2: # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
-  video: 
+  video:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     #- <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -172,54 +208,18 @@
   logistics: <span class="deadline">HW1 due 11:59pm</span>,  <span class="event">HW2 out (tentative)</span> <br>
 
 
-- date: W 02/14
+- date: W 02/21
   lecturer: 
   title: >
     <strong> Evolutionary methods for policy search</strong>
   slides: https://www.dropbox.com/scl/fi/xaptzbjropclnb69ysskq/evolutionarymethods_F23.pdf?rlkey=8zp000emc7ieenicc32i7421b&dl=0 
   slides2: # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
-  video: 
+  video:
   readings:
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-  logistics:
-
-
-- date: F 02/16
-  lecturer:
-  title:
-  recitation: >
-    <strong>MCTS, TD Learning, Deep Q Learning, HW2</strong>
-  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/10703_Recitation_3.pdf
-  video: 
-  notes:
-  readings:
-  logistics:
-
-
-- date: M 02/19
-  lecturer:
-  title:
-  recitation: >
-    <strong>Quiz 1 Review</strong>
-  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Recitation_4_Quiz1_Review.pdf
-  video: 
-  notes:
-  readings:
-  logistics:
-
-
-- date: W 02/21
-  lecturer:
-  title:
-  recitation: >
-    <strong>Large OH/Quiz 1 Recitation</strong>
-  slides: https://cmudeeprl.github.io/703website_f23/assets/recitation/Quiz_1_Recitation.pdf
-  video: 
-  notes:
-  readings:
   logistics:
 
 
@@ -243,7 +243,7 @@
   title: >
     <strong>Imitation learning, behavior cloning</strong>
   slides: https://www.dropbox.com/s/bccrg2vtwcgv13k/immitationlearning_F23.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
@@ -269,7 +269,7 @@
     <strong>Imitation learning with generative models</strong>
   slides: https://www.dropbox.com/s/88m4w0dj3nobruj/immitationlearning_F23_1.pdf?dl=0
   slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - Pearce et. al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
@@ -326,7 +326,7 @@
     <strong>Imitation learning with generative models (cond. ), multigoal imitation learning and reinforcement learning</strong>
   slides: https://www.dropbox.com/s/ytes7sdyp5sw2tt/immitationlearning_F23_2.pdf?dl=0
   slides2: # https://www.dropbox.com/s/mvvmbh5420shbf3/MBRLRL_lowdimexplicit_F22.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - Zeng et al. <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
@@ -422,13 +422,26 @@
     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics:
 
+
 - date: F 03/22
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 2 Review & HW4</strong>
+  slides: https://docs.google.com/presentation/d/1EW9JaScv2l9MIko3Cr5FyKGoPC4LkMAzL6NmfVlx5U8/edit?usp=sharing
+  video:
+  notes:
+  readings:
+  logistics:  <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
+
+
+- date: M 03/25
   lecturer: 
   title: >
     <strong>MBRL (cont.) Stochastic latent dynamics models</strong>
   slides: https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
   slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
@@ -436,17 +449,6 @@
     # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
   logistics:
-
-- date: M 03/25
-  lecturer:
-  title:
-  recitation: >
-    <strong>Quiz 2 Review & HW4</strong>
-  slides: https://docs.google.com/presentation/d/1EW9JaScv2l9MIko3Cr5FyKGoPC4LkMAzL6NmfVlx5U8/edit?usp=sharing
-  video: 
-  notes:
-  readings:
-  logistics:  <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
 
 
 - date: W 03/27
@@ -459,7 +461,7 @@
   slides2: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  video: 
+  video:
   notes:
   readings:
     - (optional) Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
@@ -491,7 +493,7 @@
   slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
   # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
   slides2: # https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
-  video: 
+  video:
   notes:
   readings:
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
@@ -511,7 +513,7 @@
   title: >
     <strong>Offline RL</strong>
   slides: https://www.dropbox.com/scl/fi/o9ygnag7mftn416z48c0y/deep_rl_cmu_guest_lecture.pdf?rlkey=c7hprt8jj7mlukgx46kujceo2&dl=0
-  video: 
+  video:
   notes:
   readings:
     - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
@@ -535,7 +537,7 @@
     <strong>Sim2Real Transfer </strong>
   slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
-  video: 
+  video:
   notes: 
   readings:
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
@@ -566,7 +568,7 @@
   slides: https://www.dropbox.com/s/0edhfqy84rpzjae/VisualImitationF23.pdf?dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
-  video: 
+  video:
   notes:
   readings:
     - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
