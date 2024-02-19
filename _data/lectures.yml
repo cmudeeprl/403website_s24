@@ -193,7 +193,7 @@
   lecturer: 
   title: >
     <strong>Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: https://www.dropbox.com/scl/fi/mhoeuk9aqiysqqq2dltud/PathwiseDDPGF23.pdf?rlkey=u4ynu1u0huewgolb3489yxh2j&dl=0
+  slides: https://www.dropbox.com/scl/fi/hprrecd07dtf5e4y8k3q9/NaturalPolicyGradientsS24.pdf?rlkey=e08fem8eznnybxdi7hm7uufme&dl=0
   slides2: # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video:
