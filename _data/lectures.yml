@@ -304,18 +304,17 @@
 - date: M 03/11
   lecturer: 
   title: >
-    <strong>Imitation learning with generative models (cond. ), multigoal imitation learning and reinforcement learning</strong>
-  slides: https://www.dropbox.com/s/ytes7sdyp5sw2tt/immitationlearning_F23_2.pdf?dl=0 # TODO how many days necessary to go over these slides? last time was 1.5 day?
-  slides2: # https://www.dropbox.com/s/mvvmbh5420shbf3/MBRLRL_lowdimexplicit_F22.pdf?dl=0
+    <strong> Multi-goal RL and IL</strong>
+  slides: https://www.dropbox.com/scl/fi/fdmv9pqnttu1pjdhie3l9/immitationlearning_S24_2.pdf?rlkey=3bcbi5ahsnbbr01k2mcg5h84e&dl=0
   video:
   notes:
   readings:
+    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
     - Zeng et al. <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-    - Pearce et. al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-    - Calvin Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank"> Understanding Diffusion Models:A Unified Perspective</a>
-    - (optional) Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
-    - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a> # TODO where does this go?
+    # - Pearce et. al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    # - Calvin Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank"> Understanding Diffusion Models:A Unified Perspective</a>
+    # - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a> # TODO where does this go?
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
