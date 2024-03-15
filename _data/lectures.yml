@@ -345,9 +345,8 @@
 - date: F 03/15
   lecturer:
   recitation: >
-    <strong>HW3, Gaussian Processes, Bayes Optimization</strong>
-  slides: https://docs.google.com/presentation/d/1hSBdWhY1zZVcyn3v7zHMcGVIonHNxhOHZ7LFwlfzt0U/edit#slide=id.g293c988d0a6_0_0
-  slides2: https://cmudeeprl.github.io/703website_f23/assets/recitation/bo_gp_slides.pdf
+    <strong>HW3</strong>
+  slides: https://docs.google.com/presentation/d/1iciM_RqBkDPZxftlAsLNgogSJlrVBF1bDZgXKjTaEtA/edit#slide=id.p
   logistics:
 
 
