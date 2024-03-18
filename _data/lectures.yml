@@ -354,14 +354,14 @@
   lecturer: 
   title: >
     <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
-  slides: https://www.dropbox.com/s/gbnmww4w1knawvg/MBRLexplicitF23.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/vam3soesk4emb4tqa38fh/MBRLexplicitS24.pdf?rlkey=k3ymcg3dskdr1ub2r1nszdyl3&dl=0
   slides2: # https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
   video:
   notes:
   readings:
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
+    # - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
     # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
