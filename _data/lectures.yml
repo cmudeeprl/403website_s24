@@ -373,18 +373,16 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
+
 - date: W 03/20
   lecturer: 
   title: >
-    <strong>MBRL from sensory input, planning in sensory space, planning in a latent state space</strong>
+    <strong>MBRL from Sensory Input, Planning in Sensory Space</strong>
   slides: https://www.dropbox.com/scl/fi/7z6hcpogknyjnu3okh401/MBRLRL_sensoryS24.pdf?rlkey=xe1b07mov5061snnb31b26rmf&dl=0
   video:
   notes:
   readings:
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -415,7 +413,24 @@
 - date: M 03/25
   lecturer: 
   title: >
-    <strong>MBRL (cont.) Stochastic latent dynamics models</strong>
+    <strong>MBRL (cont.) Planning in a Latent State Space </strong>
+  slides: https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
+  slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
+  video:
+  notes:
+  readings:
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
+    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
+  logistics:
+
+
+- date: W 03/27
+  lecturer:
+  title: >
+    <strong>MBRL (cont.) Stochastic Latent Dynamics Models </strong>
   slides: https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
   slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   video:
@@ -428,7 +443,16 @@
   logistics:
 
 
-- date: W 03/27
+- date: F 03/29
+  lecturer:
+  recitation:
+  quiz: >
+    <strong> Quiz 2 </strong>
+  slides:
+  logistics:
+
+
+- date: M 04/01
   lecturer: 
   title: >
     <strong> Intelligent Exploration</strong>
@@ -454,16 +478,7 @@
   logistics:
 
 
-- date: F 03/29
-  lecturer:
-  recitation:
-  quiz: >
-    <strong> Quiz 2 </strong>
-  slides:
-  logistics:
-
-
-- date: M 04/01
+- date: W 04/03
   lecturer: 
   title: >
     <strong>Offline RL, Learning by Observation</strong>
@@ -484,8 +499,18 @@
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
   logistics:
 
-- date: W 04/03
-  lecturer: Aviral Kumar
+
+- date: F 04/05
+  lecturer:
+  recitation: >
+    <strong>Homework 5</strong>
+  slides: https://docs.google.com/presentation/d/1mcX8uQUgBa1gnbwxOwHgOv_aLRch8ixG35tcZikhYt8/edit?usp=sharing
+  notes:
+  readings:
+  logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
+
+- date: M 04/08
+  lecturer:
   recitation:
   title: >
     <strong>Offline RL</strong>
@@ -499,16 +524,7 @@
   logistics:  
 
 
-- date: F 04/05
-  lecturer:
-  recitation: >
-    <strong>Homework 5</strong>
-  slides: https://docs.google.com/presentation/d/1mcX8uQUgBa1gnbwxOwHgOv_aLRch8ixG35tcZikhYt8/edit?usp=sharing
-  notes:
-  readings:
-  logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
-
-- date: M 04/08
+- date: W 04/10
   lecturer: 
   title: >
     <strong>Sim2Real Transfer </strong>
@@ -522,13 +538,6 @@
     - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
-  logistics:
-
-
-- date: W 04/10
-  lecturer:
-  quiz: >
-    <strong>TBD</strong>
   logistics:
 
 
