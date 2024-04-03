@@ -480,11 +480,12 @@
 
 - date: W 04/03
   lecturer: 
-  title: >
-    <strong>Offline RL, Learning by Observation</strong>
-  slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
+  recitation: >
+    <strong>HW4 Slides/OH</strong>
+  slides: https://docs.google.com/presentation/d/17XbYHlHDZKwmSmBUmpc1GkeKYdiVPGu83sEnPTlaFsA/edit?usp=sharing
+  # slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
   # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
-  slides2: # https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
+  # slides2: # https://www.dropbox.com/scl/fi/pw8sgszd1v6rjivhr4z0u/NRNS.pdf?rlkey=sbnp0pgoipls0ys595z9qqago&dl=0
   video:
   notes:
   readings:
@@ -503,8 +504,8 @@
 - date: F 04/05
   lecturer:
   recitation: >
-    <strong>Homework 5</strong>
-  slides: https://docs.google.com/presentation/d/1mcX8uQUgBa1gnbwxOwHgOv_aLRch8ixG35tcZikhYt8/edit?usp=sharing
+    <strong> Intelligent Exploration</strong>
+  slides: https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
   notes:
   readings:
   logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
@@ -527,16 +528,18 @@
 - date: W 04/10
   lecturer: 
   title: >
-    <strong>Sim2Real Transfer </strong>
-  slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
+    <strong>Homework 5 and Solutions to Quiz 2</strong>
+  slides: https://docs.google.com/presentation/d/1mcX8uQUgBa1gnbwxOwHgOv_aLRch8ixG35tcZikhYt8/edit?usp=sharing
+  #   <strong>Sim2Real Transfer </strong>
+  # slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
   video:
   notes: 
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
   logistics:
 
