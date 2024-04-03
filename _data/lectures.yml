@@ -489,8 +489,8 @@
   video:
   notes:
   readings:
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
     # - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     # - (optional) Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
