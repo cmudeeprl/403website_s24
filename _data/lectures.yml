@@ -456,7 +456,7 @@
   lecturer: 
   title: >
     <strong> Intelligent Exploration</strong>
-  slides: https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
+  slides: https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
   # https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
   # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
@@ -505,7 +505,7 @@
   lecturer:
   recitation: >
     <strong> Intelligent Exploration</strong>
-  slides: https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
+  slides: https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
   notes:
   readings:
   logistics: <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
@@ -514,12 +514,16 @@
   lecturer:
   recitation:
   title: >
-    <strong>Offline RL</strong>
-  slides: https://www.dropbox.com/scl/fi/o9ygnag7mftn416z48c0y/deep_rl_cmu_guest_lecture.pdf?rlkey=c7hprt8jj7mlukgx46kujceo2&dl=0
+    <strong>Sim2Real Transfer</strong>
+  slides: https://www.dropbox.com/s/jf1nx5qog5mmw2k/sim2realS24.pdf?dl=0
   video:
   notes:
   readings:
-    - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:  
