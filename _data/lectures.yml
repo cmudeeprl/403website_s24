@@ -564,10 +564,9 @@
   video:
   notes:
   readings:
-    - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
-    - (Optional) Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
-    - (Optional) Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-    - Baker et al. <a href="https://arxiv.org/pdf/2206.11795.pdf" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
+    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models: A Unified Perspective</a>
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
   logistics:
 
 
