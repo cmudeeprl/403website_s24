@@ -571,6 +571,22 @@
 
 
 - date: W 04/17
+  lecturer:
+  title: >
+    <strong>Diffusion Models for Imitation and Model-based RL</strong>
+  slides: https://www.dropbox.com/s/0edhfqy84rpzjae/VisualImitationF23.pdf?dl=0
+  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
+  slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
+  video:
+  notes:
+  readings:
+    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+  logistics:
+
+
+- date: F 04/19
   lecturer: 
   title: >
     <strong>Language and Robot Control</strong>
@@ -582,8 +598,8 @@
     - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
     - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
     - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
-    - (optional) Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
-    - (optional) Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
+    # - (optional) Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
+    # - (optional) Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
     # - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
@@ -592,39 +608,27 @@
   logistics:
 
 
-- date: F 04/19
-  lecturer:
-  recitation: <strong>Recitation</strong>
-  slides: https://docs.google.com/presentation/d/1oEXKoU-ZqTw68Lw3di0EKRWTR3kS5TnA8F5DG1_kBOI/edit#slide=id.p
-  # https://docs.google.com/presentation/d/1Kno3PWBEP89-ANNHCtCENkxg-P2sbnm-b2BrMi0p834/edit?usp=sharing
-  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
-  notes:
-  readings:
-    # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
-    # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-  logistics:
-
 - date: M 04/22
   lecturer:
   title: >
-    <strong> Self-Supervised Visual Learning</strong>
-  slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
+    <strong> Offline Reinforcement Learning</strong>
+  # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
   # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
   notes:
   readings:
-    - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
-    - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
-    - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
+    # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
+    # - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
+    # - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
 - date: W 04/24
   lecturer: 
   title: >
-    <strong>Multimodal Policies , Control and 3D Spatial Representations</strong>
-  slides: https://www.dropbox.com/scl/fi/o8gwmz5ufacdz0yl9neak/Diffusion-ES.pdf?rlkey=zbrhsrykal2vqquxueug64027&dl=0
+    <strong> Visual Imitation Learning</strong>
+  # slides: https://www.dropbox.com/scl/fi/o8gwmz5ufacdz0yl9neak/Diffusion-ES.pdf?rlkey=zbrhsrykal2vqquxueug64027&dl=0
   # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
-  slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
+  # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
   readings:
     # - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
@@ -635,8 +639,9 @@
 
 - date: F 04/26
   lecturer:
-  recitation:  <strong>Quiz 3 Review Part II</strong>
-  slides: https://docs.google.com/presentation/d/1B9Sh52B58PPtvx9msQ3L5IcoKIibwMJNd6F9qEYU2VM/edit#slide=id.p
+  recitation:  <strong>Quiz 3 Review </strong>
+  slides: https://docs.google.com/presentation/d/1oEXKoU-ZqTw68Lw3di0EKRWTR3kS5TnA8F5DG1_kBOI/edit#slide=id.p
+  slides2: https://docs.google.com/presentation/d/1B9Sh52B58PPtvx9msQ3L5IcoKIibwMJNd6F9qEYU2VM/edit#slide=id.p
   # https://docs.google.com/presentation/d/1xA0wI82tOqjuvXoJKWLbRmtMuAL9KZ-v/edit?usp=sharing&ouid=103079273328838065544&rtpof=true&sd=true
   notes: 
   readings:
